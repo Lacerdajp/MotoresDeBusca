@@ -1,31 +1,89 @@
-from whoosh.fields import Schema, TEXT, KEYWORD, ID, STORED
-from whoosh.index import create_in
+from pathlib import Path
+from whoosh.fields import Schema, TEXT, KEYWORD, ID, STORED, NUMERIC
+from whoosh.index import create_in, open_dir
 from whoosh.qparser import QueryParser
+import timeit
+import shutil
 
-# Criar o esquema do índice
-schema = Schema(title=TEXT(stored=True), content=TEXT, path=ID(stored=True))
 
-# Criar um diretório para armazenar o índice
-index_dir = "exemplo_index"
-ix = create_in(index_dir, schema)
+def limparLixo(string):
 
-# Adicionar documentos ao índice
-writer = ix.writer()
-writer.add_document(title=u"Documento 1",
-                    content=u"Este é o conteúdo do Documento 1", path=u"/doc1")
-writer.add_document(title=u"Documento 2",
-                    content=u"Conteúdo do Documento 2", path=u"/doc2")
-writer.commit()
+    antesLimpeza = timeit.default_timer()
+    saida = string.replace("\n", " ").replace(".T", "").replace(".A", "").replace(
+        ".B", "").replace(".W", "").replace("the ", "").replace("an ", "").replace("a ", "").strip()
+    depoisLimpeza = timeit.default_timer()
 
-# Consultar o índice
-searcher = ix.searcher()
-query = QueryParser("content", ix.schema).parse("conteúdo")
-results = searcher.search(query)
+    tempoLimpeza = depoisLimpeza - antesLimpeza
 
-# Exibir resultados
-for result in results:
-    print(result)
+#   print(f"LOG: Tempo de limpeza: {tempoLimpeza}")
 
-# Fechar os objetos de índice e pesquisa
-searcher.close()
-ix.close()
+    return saida
+
+
+def lerColecao(path):
+
+    antesLeitura = timeit.default_timer()
+    with open(path, "r") as file:
+        f = file.read()
+    depoisLeitura = timeit.default_timer()
+
+    tempoLeitura = depoisLeitura - antesLeitura
+    return f.split(".I")[1:]
+
+
+def VerificaDiretorioIndex(index_diretorio, schema):
+    if index_diretorio.exists():
+        print("Diretório de indexação já existe, abrindo...")
+        index = open_dir(index_diretorio)
+    else:
+        print("Criando diretório de indexação...")
+        index_diretorio.mkdir()
+        index = create_in(index_diretorio, schema)
+    return index
+
+
+def lerDiretorioIndex(index, arquivo):
+    writer = index.writer()
+    for i, linha in enumerate(lerColecao(arquivo)):
+        content = limparLixo(linha)
+        writer.add_document(title=i, content=content)
+    writer.commit()
+
+
+def realizarBusca(index, searcher, busca, tipoBusca, numeroResultados):
+    query = QueryParser(tipoBusca, index.schema).parse(busca)
+    results = searcher.search(query, limit=numeroResultados)
+    for result in results:
+        title_value = result.get("title")
+        content_value = result.get("content")
+        print(f"Linha {title_value} - Texto: {content_value}")
+        print("----------------------\n")
+
+
+arquivo = "DataSets/cran.all.1400"
+index_diretorio = Path("/Whoosh")
+# shutil.rmtree(index_diretorio)
+schema = Schema(title=NUMERIC(stored=True), content=TEXT(stored=True))
+index = VerificaDiretorioIndex(index_diretorio, schema)
+lerDiretorioIndex(index, arquivo)
+searcher = index.searcher()
+
+while True:
+    escolha = input("Deseja realizar uma busca? (S/N): ")
+    if (escolha == "N"):
+        break
+    elif (escolha == "S"):
+        tipoBusca = int(input(
+            "Digite o tipo de busca (Linha ou Texto):\n1.Linha\n2.Texto\n "))
+        if (tipoBusca == 1 or tipoBusca == 2):
+            if (tipoBusca == 1):
+                tipo = "title"
+            else:
+                tipo = "content"
+            busca = input("Digite o conteudo de busca: ")
+            numeroResultados = int(
+                input("Digite o número de resultados: "))
+            realizarBusca(index, searcher, busca, tipo, numeroResultados)
+        else:
+            print("Tipo de busca inválido!")
+index.close()
