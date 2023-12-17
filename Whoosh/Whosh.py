@@ -1,7 +1,7 @@
 from pathlib import Path
-from whoosh.fields import Schema, TEXT, KEYWORD, ID, STORED, NUMERIC
+from whoosh.fields import Schema, TEXT
 from whoosh.index import create_in, open_dir
-from whoosh.qparser import MultifieldParser, OrGroup
+from whoosh.qparser import MultifieldParser
 from whoosh.scoring import BM25F
 import timeit
 import shutil
@@ -206,9 +206,9 @@ for k in range(10):
 print("O tempo de busca se da por: "+str(sum(tempoBusca)/len(tempoBusca)))
 print("O tempo de Indexação é: "+str(tempoIndexacao))
 plotarGRaficos("Grafico de Recall X K Whoosh", y=recall,
-               x=[linha for linha in range(10)], namex="k", namey="Recall")
+               x=[linha+1 for linha in range(10)], namex="k", namey="Recall")
 plotarGRaficos("Grafico de Precision X K Whoosh", y=precision,
-               x=[linha for linha in range(10)], namex="k", namey="Precision")
+               x=[linha+1 for linha in range(10)], namex="k", namey="Precision")
 
 arquivoResposta.close()
 index.close()

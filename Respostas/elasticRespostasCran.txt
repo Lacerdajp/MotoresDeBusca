@@ -7198,1803 +7198,1596 @@ Linha:180-IDPergunta:273-IDDocumento:315-Score:10.037167
 Pergunta:how does scale height vary with altitude in atmosphere .
 Titulo:scale effects at high subsonic and transonic speeds and methods for fixing transition in model experiments .
 --------------------------------------------
-Linha:181-IDPergunta:274-IDDocumento:997-Score:14.131331
+Linha:181-IDPergunta:274-IDDocumento:997-Score:14.307592
 Pergunta:jet interference with supersonic flows theoretical papers .
 Titulo:experimental and theoretical studies of axisymmetric free jets .
 --------------------------------------------
-Linha:181-IDPergunta:274-IDDocumento:993-Score:12.082287
+Linha:181-IDPergunta:274-IDDocumento:993-Score:12.233788
 Pergunta:jet interference with supersonic flows theoretical papers .
 Titulo: extent of jet interference flow fields . jet effects on cylindrical afterbodies housing sonic and supersonic nozzles which exhaust against supersonic stream at angles of attack from 90degree to 180degree .
 --------------------------------------------
-Linha:181-IDPergunta:274-IDDocumento:409-Score:10.455329
+Linha:181-IDPergunta:274-IDDocumento:1195-Score:10.931253
+Pergunta:jet interference with supersonic flows theoretical papers .
+Titulo:experiments with two-dimensional, transversely impinging jets .
+--------------------------------------------
+Linha:181-IDPergunta:274-IDDocumento:1075-Score:10.743724
+Pergunta:jet interference with supersonic flows theoretical papers .
+Titulo:experimental and theoretical investigation of second-order supersonic  wing-body interference, for non-lifting body with wings at incidence .
+--------------------------------------------
+Linha:181-IDPergunta:274-IDDocumento:409-Score:10.640247
 Pergunta:jet interference with supersonic flows theoretical papers .
 Titulo:on base pressure resulting from interaction of supersonic external stream with sonic or subsonic jet .
 --------------------------------------------
-Linha:181-IDPergunta:274-IDDocumento:970-Score:10.153034
+Linha:181-IDPergunta:274-IDDocumento:1074-Score:10.585897
+Pergunta:jet interference with supersonic flows theoretical papers .
+Titulo:theoretical and experimental investigation of second-order supersonic wing-body interference .
+--------------------------------------------
+Linha:181-IDPergunta:274-IDDocumento:1374-Score:10.534017
+Pergunta:jet interference with supersonic flows theoretical papers .
+Titulo:theoretical analysis of turbulent mixing of reactive gases with application to supersonic combustion of hydrogen .
+--------------------------------------------
+Linha:181-IDPergunta:274-IDDocumento:1350-Score:10.449722
+Pergunta:jet interference with supersonic flows theoretical papers .
+Titulo:effects of jet billowing on stability of missile-type bodies at mach 3. 85 .
+--------------------------------------------
+Linha:181-IDPergunta:274-IDDocumento:970-Score:10.268218
 Pergunta:jet interference with supersonic flows theoretical papers .
 Titulo:loads induced on flat plate wing by air jet exhausting perpendicularly through wing and normal to free-stream flow of mach number 2.0 .
 --------------------------------------------
-Linha:181-IDPergunta:274-IDDocumento:799-Score:9.890021
+Linha:181-IDPergunta:274-IDDocumento:1151-Score:10.163292
 Pergunta:jet interference with supersonic flows theoretical papers .
-Titulo:some effects of wind-tunnel interference observed in tests on two-dimensional aerofoils at high subsonic and transonic speeds .
+Titulo:experiments on supersonic blunt-body flows .
 --------------------------------------------
-Linha:181-IDPergunta:274-IDDocumento:696-Score:9.813365
-Pergunta:jet interference with supersonic flows theoretical papers .
-Titulo:pressure loads produced on flat-plate wing by rocket jets exhausting in spanwise direction below wing and perpendicular to free-stream flow of mach number 2.0 .
---------------------------------------------
-Linha:181-IDPergunta:274-IDDocumento:243-Score:9.464719
-Pergunta:jet interference with supersonic flows theoretical papers .
-Titulo:investigation with interferometer of turbulent mixing of free supersonic jet .
---------------------------------------------
-Linha:181-IDPergunta:274-IDDocumento:695-Score:9.367191
-Pergunta:jet interference with supersonic flows theoretical papers .
-Titulo:some experiments relating to problem of simulation of hot jet engines in studies of jet effects on adjacent surfaces at free-stream mach number of 1.80 .
---------------------------------------------
-Linha:181-IDPergunta:274-IDDocumento:610-Score:9.182127
-Pergunta:jet interference with supersonic flows theoretical papers .
-Titulo:corner interference effects .
---------------------------------------------
-Linha:181-IDPergunta:274-IDDocumento:388-Score:9.06626
-Pergunta:jet interference with supersonic flows theoretical papers .
-Titulo:pressure gradient induced by shear flow past flat plate .
---------------------------------------------
-Linha:182-IDPergunta:275-IDDocumento:634-Score:58.227966
+Linha:182-IDPergunta:275-IDDocumento:634-Score:58.383644
 Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
 Titulo:effects of leading edge bluntness on flutter characteristics of some square- planform double-wedge airfoils at mach number of 15 .4.
 --------------------------------------------
-Linha:182-IDPergunta:275-IDDocumento:685-Score:53.551495
+Linha:182-IDPergunta:275-IDDocumento:685-Score:53.623043
 Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
 Titulo:aerodynamic effects of some configuration variables on aeroelastic characteristics of lifting surfaces at mach numbers from 0. 7 to 6. 86 .
 --------------------------------------------
-Linha:182-IDPergunta:275-IDDocumento:593-Score:24.09847
+Linha:182-IDPergunta:275-IDDocumento:593-Score:24.663683
 Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
 Titulo:theoretical considerations of flutter at high mach number .
 --------------------------------------------
-Linha:182-IDPergunta:275-IDDocumento:686-Score:22.576965
+Linha:182-IDPergunta:275-IDDocumento:686-Score:22.814634
 Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
 Titulo:flutter tests of some simple models at mach number of 7. 2 in helium flow .
 --------------------------------------------
-Linha:182-IDPergunta:275-IDDocumento:712-Score:19.650734
+Linha:182-IDPergunta:275-IDDocumento:1300-Score:22.166527
+Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
+Titulo:some effects of bluntness on boundary layer transition and heat transfer at supersonic speeds .
+--------------------------------------------
+Linha:182-IDPergunta:275-IDDocumento:712-Score:20.0443
 Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
 Titulo:low-speed longitudinal aerodynamic characteristics associated with series of low-aspect ratio wings having variations in leading-edge contour .
 --------------------------------------------
-Linha:182-IDPergunta:275-IDDocumento:193-Score:19.213827
+Linha:182-IDPergunta:275-IDDocumento:1290-Score:19.611824
+Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
+Titulo:measured and calculated subsonic and transonic flutter characteristics of 45 sweptback wing planform in air and in freon-12 in langley transonic dynamics tunnel .
+--------------------------------------------
+Linha:182-IDPergunta:275-IDDocumento:193-Score:19.447308
 Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
 Titulo:study of inviscid flow about air foils at high supersonic speeds .
 --------------------------------------------
-Linha:182-IDPergunta:275-IDDocumento:572-Score:18.15028
-Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
-Titulo:boundary layer displacement and leading edge bluntness effects in high temperature hypersonic flow .
---------------------------------------------
-Linha:182-IDPergunta:275-IDDocumento:675-Score:18.134523
+Linha:182-IDPergunta:275-IDDocumento:675-Score:18.505228
 Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
 Titulo:pressure distribution and surface flow on 5( and 9( thick wings with curved tip and 60degree sweepback .
 --------------------------------------------
-Linha:182-IDPergunta:275-IDDocumento:440-Score:17.96696
+Linha:182-IDPergunta:275-IDDocumento:440-Score:18.369707
 Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
 Titulo:compilation of information on transonic attachment of flows at leading edge of airfoils .
 --------------------------------------------
-Linha:182-IDPergunta:275-IDDocumento:211-Score:17.928383
-Pergunta:effects of leading-edge bluntness on flutter characteristics of some square-planform double-wedge airfoils at mach numbers less th15.4.
-Titulo:effect of slight blunting of leading edge of immersed body on flow around it at hypersonic speed .
---------------------------------------------
-Linha:183-IDPergunta:277-IDDocumento:809-Score:16.338484
+Linha:183-IDPergunta:277-IDDocumento:809-Score:16.930017
 Pergunta:what factors have been shown to have primary influence on sonic boom strength .
 Titulo:investigation of influence of lift on sonic-boom intensity by means of wind tunnel measurements of pressure fields of several wing-body combinations at mach number of 2. 01 .
 --------------------------------------------
-Linha:183-IDPergunta:277-IDDocumento:758-Score:14.891677
+Linha:183-IDPergunta:277-IDDocumento:758-Score:15.385447
 Pergunta:what factors have been shown to have primary influence on sonic boom strength .
 Titulo:lower bound of attainable sonic-boom over-pressure and design methods of approaching this limit .
 --------------------------------------------
-Linha:183-IDPergunta:277-IDDocumento:893-Score:14.620731
-Pergunta:what factors have been shown to have primary influence on sonic boom strength .
-Titulo:new design of pitot-static tube with discussion of pitot-static tubes and their calibration factors .
---------------------------------------------
-Linha:183-IDPergunta:277-IDDocumento:807-Score:14.381312
+Linha:183-IDPergunta:277-IDDocumento:807-Score:14.803274
 Pergunta:what factors have been shown to have primary influence on sonic boom strength .
 Titulo:ground measurements of shock wave noise from supersonic bomber airplanes in altitude range from 30,000 to 50,000 feet .
 --------------------------------------------
-Linha:183-IDPergunta:277-IDDocumento:811-Score:13.469244
+Linha:183-IDPergunta:277-IDDocumento:893-Score:14.531803
 Pergunta:what factors have been shown to have primary influence on sonic boom strength .
-Titulo:investigation of lifting effects on intensity of sonic booms .
+Titulo:new design of pitot-static tube with discussion of pitot-static tubes and their calibration factors .
 --------------------------------------------
-Linha:183-IDPergunta:277-IDDocumento:808-Score:13.400944
+Linha:183-IDPergunta:277-IDDocumento:808-Score:13.835868
 Pergunta:what factors have been shown to have primary influence on sonic boom strength .
 Titulo:investigation of some aspects of sonic boom by means of wind tunnel measurements of pressures about several bodies at mach number of 2. 01 .
 --------------------------------------------
-Linha:183-IDPergunta:277-IDDocumento:199-Score:13.129693
+Linha:183-IDPergunta:277-IDDocumento:811-Score:13.535153
+Pergunta:what factors have been shown to have primary influence on sonic boom strength .
+Titulo:investigation of lifting effects on intensity of sonic booms .
+--------------------------------------------
+Linha:183-IDPergunta:277-IDDocumento:199-Score:13.329601
 Pergunta:what factors have been shown to have primary influence on sonic boom strength .
 Titulo:measurement of two dimensional derivatives on wing-aileron-tab system .
 --------------------------------------------
-Linha:183-IDPergunta:277-IDDocumento:997-Score:12.51491
+Linha:183-IDPergunta:277-IDDocumento:1068-Score:13.210723
 Pergunta:what factors have been shown to have primary influence on sonic boom strength .
-Titulo:experimental and theoretical studies of axisymmetric free jets .
+Titulo:instability analysis of cylindrical shells under hydrostatic pressure .
 --------------------------------------------
-Linha:183-IDPergunta:277-IDDocumento:374-Score:12.365987
-Pergunta:what factors have been shown to have primary influence on sonic boom strength .
-Titulo:investigation of optimum zoom climb techniques .
---------------------------------------------
-Linha:183-IDPergunta:277-IDDocumento:804-Score:12.2555895
+Linha:183-IDPergunta:277-IDDocumento:804-Score:12.722019
 Pergunta:what factors have been shown to have primary influence on sonic boom strength .
 Titulo:flight test investigation of sonic boom .
 --------------------------------------------
-Linha:184-IDPergunta:283-IDDocumento:82-Score:14.539518
+Linha:183-IDPergunta:277-IDDocumento:1177-Score:12.654001
+Pergunta:what factors have been shown to have primary influence on sonic boom strength .
+Titulo:effects of rapid heating on strength of airframe components .
+--------------------------------------------
+Linha:184-IDPergunta:283-IDDocumento:82-Score:14.294253
 Pergunta:work on small-oscillation re-entry motions .
 Titulo:theoretical investigation of ablation of glass-type heat protection shield of varied material properties at stagnation point of re-entering irbm .
 --------------------------------------------
-Linha:184-IDPergunta:283-IDDocumento:554-Score:12.494801
-Pergunta:work on small-oscillation re-entry motions .
-Titulo:generalized heat transfer formulas and graphs .
---------------------------------------------
-Linha:184-IDPergunta:283-IDDocumento:813-Score:12.292641
+Linha:184-IDPergunta:283-IDDocumento:813-Score:12.309098
 Pergunta:work on small-oscillation re-entry motions .
 Titulo:motion of rolling symmetrical missiles referred to body-axis system .
 --------------------------------------------
-Linha:184-IDPergunta:283-IDDocumento:509-Score:11.845918
+Linha:184-IDPergunta:283-IDDocumento:554-Score:12.185981
+Pergunta:work on small-oscillation re-entry motions .
+Titulo:generalized heat transfer formulas and graphs .
+--------------------------------------------
+Linha:184-IDPergunta:283-IDDocumento:509-Score:11.639559
 Pergunta:work on small-oscillation re-entry motions .
 Titulo:graphical approximation for temperatures and sublimation rates at surfaces subjected to small net and large gross heat transfer rates .
 --------------------------------------------
-Linha:184-IDPergunta:283-IDDocumento:67-Score:11.0690565
+Linha:184-IDPergunta:283-IDDocumento:1379-Score:11.294281
+Pergunta:work on small-oscillation re-entry motions .
+Titulo:hypersonic flight and re-entry problem .
+--------------------------------------------
+Linha:184-IDPergunta:283-IDDocumento:1217-Score:11.223456
+Pergunta:work on small-oscillation re-entry motions .
+Titulo:application of inequality constraints to variational problems of lifting re-entry .
+--------------------------------------------
+Linha:184-IDPergunta:283-IDDocumento:67-Score:11.103708
 Pergunta:work on small-oscillation re-entry motions .
 Titulo:dynamic stability of vehicles traversing ascending or descending paths through atmosphere .
 --------------------------------------------
-Linha:184-IDPergunta:283-IDDocumento:1000-Score:10.827054
+Linha:184-IDPergunta:283-IDDocumento:1000-Score:10.628939
 Pergunta:work on small-oscillation re-entry motions .
 Titulo:free-flight measurements of static and dynamic stability and drag of 10 blunted cone at mach numbers 3 .5 and 8 .5 .
 --------------------------------------------
-Linha:184-IDPergunta:283-IDDocumento:717-Score:10.021538
+Linha:184-IDPergunta:283-IDDocumento:1219-Score:10.412979
 Pergunta:work on small-oscillation re-entry motions .
-Titulo:motions of short 10degree blunted cone entering martiatmosphere at arbitrary angles of attack and arbitrary pitching rates .
+Titulo:determination of lift or drag programs to minimize re-entry heating .
 --------------------------------------------
-Linha:184-IDPergunta:283-IDDocumento:274-Score:9.796879
-Pergunta:work on small-oscillation re-entry motions .
-Titulo:analysis of quartz and teflon shields for particular re-entry mission .
---------------------------------------------
-Linha:184-IDPergunta:283-IDDocumento:917-Score:9.770411
+Linha:184-IDPergunta:283-IDDocumento:917-Score:9.909326
 Pergunta:work on small-oscillation re-entry motions .
 Titulo:method of calculating short period longitudinal stability derivatives of wing in linearised unsteady compressible flow .
 --------------------------------------------
-Linha:184-IDPergunta:283-IDDocumento:895-Score:9.398364
-Pergunta:work on small-oscillation re-entry motions .
-Titulo:airforces on low aspect ratio rectangular wing oscillating in sonic flow .
---------------------------------------------
-Linha:185-IDPergunta:284-IDDocumento:856-Score:19.121162
+Linha:185-IDPergunta:284-IDDocumento:856-Score:19.679306
 Pergunta:experimental studies on panel flutter .
 Titulo:some experimental studies of panel flutter at mach 1 .3.
 --------------------------------------------
-Linha:185-IDPergunta:284-IDDocumento:857-Score:16.909527
+Linha:185-IDPergunta:284-IDDocumento:857-Score:17.428192
 Pergunta:experimental studies on panel flutter .
 Titulo:experimental studies of flutter of buckled rectangular panels at mach numbers from 1. 2 to 3. 0 including effects of pressure differential and of panel width-length ratio .
 --------------------------------------------
-Linha:185-IDPergunta:284-IDDocumento:390-Score:14.746606
+Linha:185-IDPergunta:284-IDDocumento:390-Score:15.305816
 Pergunta:experimental studies on panel flutter .
 Titulo:some panel-flutter studies using piston theory .
 --------------------------------------------
-Linha:185-IDPergunta:284-IDDocumento:858-Score:14.459209
+Linha:185-IDPergunta:284-IDDocumento:858-Score:14.970668
 Pergunta:experimental studies on panel flutter .
 Titulo:experimental investigation at mach numbers 3. 0 of effects of thermal stress and buckling on flutter of four-bay aluminium alloy panels with length-width ratios of 10 .
 --------------------------------------------
-Linha:185-IDPergunta:284-IDDocumento:766-Score:14.384003
+Linha:185-IDPergunta:284-IDDocumento:766-Score:14.901157
 Pergunta:experimental studies on panel flutter .
 Titulo:experimental investigation at mach number of 3. 0 of effects of thermal stress and buckling on flutter characteristics of flat single-bay panels of length-width ratio 0. 96 .
 --------------------------------------------
-Linha:185-IDPergunta:284-IDDocumento:948-Score:13.007578
+Linha:185-IDPergunta:284-IDDocumento:1008-Score:14.448264
+Pergunta:experimental studies on panel flutter .
+Titulo:free-flight measurements of static and dynamic .
+--------------------------------------------
+Linha:185-IDPergunta:284-IDDocumento:948-Score:13.56108
 Pergunta:experimental studies on panel flutter .
 Titulo:panel flutter tests on full scale x-15 lower vertical stabilizer at mach number of 3. 0.
 --------------------------------------------
-Linha:185-IDPergunta:284-IDDocumento:391-Score:12.501317
+Linha:185-IDPergunta:284-IDDocumento:391-Score:13.05039
 Pergunta:experimental studies on panel flutter .
 Titulo:flutter of rectangular simply supported panels at high supersonic speeds .
 --------------------------------------------
-Linha:185-IDPergunta:284-IDDocumento:859-Score:12.305044
+Linha:185-IDPergunta:284-IDDocumento:859-Score:12.838526
 Pergunta:experimental studies on panel flutter .
 Titulo:flutter of aerodynamically heated aluminium-alloy and stainless steel panels with length-width ratio of 10 at mach 3. 0.
 --------------------------------------------
-Linha:185-IDPergunta:284-IDDocumento:15-Score:12.268642
+Linha:185-IDPergunta:284-IDDocumento:15-Score:12.543062
 Pergunta:experimental studies on panel flutter .
 Titulo:on two-dimensional panel flutter .
 --------------------------------------------
-Linha:185-IDPergunta:284-IDDocumento:658-Score:11.481545
-Pergunta:experimental studies on panel flutter .
-Titulo:review of panel flutter and effects of aerodynamic noise part i..  panel flutter .
---------------------------------------------
-Linha:186-IDPergunta:285-IDDocumento:610-Score:13.857643
+Linha:186-IDPergunta:285-IDDocumento:610-Score:13.995174
 Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
 Titulo:corner interference effects .
 --------------------------------------------
-Linha:186-IDPergunta:285-IDDocumento:229-Score:12.30057
+Linha:186-IDPergunta:285-IDDocumento:1243-Score:13.848729
+Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
+Titulo:supersonic boom of wing-body configurations .
+--------------------------------------------
+Linha:186-IDPergunta:285-IDDocumento:723-Score:12.452458
+Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
+Titulo:on fatigue failure of structures due to vibrations excited by random pressure fields .
+--------------------------------------------
+Linha:186-IDPergunta:285-IDDocumento:1239-Score:12.448397
+Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
+Titulo:body under lifting wing .
+--------------------------------------------
+Linha:186-IDPergunta:285-IDDocumento:229-Score:12.3512125
 Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
 Titulo:interference between wings and tail surfaces of combination of slender body, cruciform wings and cruciform tail set at both incidence and yaw .
 --------------------------------------------
-Linha:186-IDPergunta:285-IDDocumento:723-Score:12.061645
-Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
-Titulo:on fatigue failure of structures due to vibrations excited by random pressure fields .
---------------------------------------------
-Linha:186-IDPergunta:285-IDDocumento:252-Score:11.631191
+Linha:186-IDPergunta:285-IDDocumento:252-Score:11.7212305
 Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
 Titulo:investigation of interference effects on similar models of different size in various transonic tunnels in u.k. .
 --------------------------------------------
-Linha:186-IDPergunta:285-IDDocumento:230-Score:10.935069
-Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
-Titulo:interference between wings and tail plane of slender wing-body tailplane combination .
---------------------------------------------
-Linha:186-IDPergunta:285-IDDocumento:404-Score:10.689483
+Linha:186-IDPergunta:285-IDDocumento:404-Score:11.128837
 Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
 Titulo:two dimensional transonic flow past airfoils .
 --------------------------------------------
-Linha:186-IDPergunta:285-IDDocumento:923-Score:10.506502
+Linha:186-IDPergunta:285-IDDocumento:230-Score:10.958774
 Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
-Titulo:methods for estimating lift interference of wing-body combinations at supersonic speeds .
+Titulo:interference between wings and tail plane of slender wing-body tailplane combination .
 --------------------------------------------
-Linha:186-IDPergunta:285-IDDocumento:431-Score:10.336983
+Linha:186-IDPergunta:285-IDDocumento:1391-Score:10.864731
 Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
-Titulo:free-flight measurements of zero-lift drag and base pressure on wind tunnel interference model (m=0 . 8 - 1. 5) .
+Titulo:shock wave and flow field development in hypersonic re-entry .
 --------------------------------------------
-Linha:186-IDPergunta:285-IDDocumento:531-Score:10.289612
+Linha:186-IDPergunta:285-IDDocumento:1062-Score:10.815584
 Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
-Titulo:flow about moving body in upper ionosphere .
+Titulo:experimental and theoretical investigation of second-order wing-body interference at high mach number .
 --------------------------------------------
-Linha:186-IDPergunta:285-IDDocumento:672-Score:10.207067
-Pergunta:how cwing-body,  flow field interference effects be approximated rationally .
-Titulo:tunnel interference effects .
---------------------------------------------
-Linha:187-IDPergunta:288-IDDocumento:763-Score:36.638245
+Linha:187-IDPergunta:288-IDDocumento:763-Score:35.278313
 Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
 Titulo:effects of internal pressure on buckling of circular-cylindrical shells under bending.
 --------------------------------------------
-Linha:187-IDPergunta:288-IDDocumento:839-Score:29.640368
+Linha:187-IDPergunta:288-IDDocumento:839-Score:28.42576
 Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
 Titulo:bending stability of thin-- walled unstiffened circular cylinders including effects of internal pressure .
 --------------------------------------------
-Linha:187-IDPergunta:288-IDDocumento:841-Score:26.442173
+Linha:187-IDPergunta:288-IDDocumento:1126-Score:27.83988
+Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
+Titulo:engineer's conceptual approach to buckling of cylindrical shell (axial loading) .
+--------------------------------------------
+Linha:187-IDPergunta:288-IDDocumento:841-Score:25.36807
 Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
 Titulo:on bending of circular cylindrical shells under pure bending .
 --------------------------------------------
-Linha:187-IDPergunta:288-IDDocumento:897-Score:26.041067
+Linha:187-IDPergunta:288-IDDocumento:897-Score:24.71269
 Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
 Titulo:some results on buckling and postbuckling of cylindrical shells .
 --------------------------------------------
-Linha:187-IDPergunta:288-IDDocumento:936-Score:23.049387
+Linha:187-IDPergunta:288-IDDocumento:1068-Score:24.391706
+Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
+Titulo:instability analysis of cylindrical shells under hydrostatic pressure .
+--------------------------------------------
+Linha:187-IDPergunta:288-IDDocumento:1070-Score:22.234417
+Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
+Titulo:buckling of orthotropic and stiffened conical shells .
+--------------------------------------------
+Linha:187-IDPergunta:288-IDDocumento:1051-Score:21.894953
+Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
+Titulo:stability of thin-walled unstiffened circular cylinders under axial compression including effects of internal pressure .
+--------------------------------------------
+Linha:187-IDPergunta:288-IDDocumento:1171-Score:21.886148
+Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
+Titulo:stability under axial compression and lateral pressure of circular cylindrical shells with soft elastic core .
+--------------------------------------------
+Linha:187-IDPergunta:288-IDDocumento:936-Score:21.523258
 Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
 Titulo:donnell-type theory for asymmetrical bending and buckling of thin conical shells .
 --------------------------------------------
-Linha:187-IDPergunta:288-IDDocumento:926-Score:22.04076
-Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
-Titulo:post buckling behaviour of circular cylinderical shells under hydrostatic pressure .
---------------------------------------------
-Linha:187-IDPergunta:288-IDDocumento:846-Score:21.089489
-Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
-Titulo:on vibration of thin cylindrical shells under internal pressure .
---------------------------------------------
-Linha:187-IDPergunta:288-IDDocumento:887-Score:20.936745
-Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
-Titulo:buckling due to thermal stress of cylindrical shells subjected to axial temperature distributions .
---------------------------------------------
-Linha:187-IDPergunta:288-IDDocumento:955-Score:20.774813
-Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
-Titulo:membrane approach to bending instability of pressureized cylindrical shells .
---------------------------------------------
-Linha:187-IDPergunta:288-IDDocumento:826-Score:20.656744
-Pergunta:has anyone analytically or experimentally investigated effects of internal pressure on buckling of circular-cylindrical shells under bending .
-Titulo:small bending and stretching of sandwich type shells .
---------------------------------------------
-Linha:188-IDPergunta:291-IDDocumento:725-Score:23.356981
+Linha:188-IDPergunta:291-IDDocumento:725-Score:24.196608
 Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
 Titulo:response of typical aircraft structure to jet noise .
 --------------------------------------------
-Linha:188-IDPergunta:291-IDDocumento:722-Score:21.36691
+Linha:188-IDPergunta:291-IDDocumento:640-Score:21.912329
+Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
+Titulo:design of structures to resist jet noise fatigue .
+--------------------------------------------
+Linha:188-IDPergunta:291-IDDocumento:722-Score:21.856638
 Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
 Titulo:random excitation of tailplane section by jet noise .
 --------------------------------------------
-Linha:188-IDPergunta:291-IDDocumento:640-Score:21.262436
-Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
-Titulo:design of structures to resist jet noise fatigue .
---------------------------------------------
-Linha:188-IDPergunta:291-IDDocumento:908-Score:19.924332
+Linha:188-IDPergunta:291-IDDocumento:908-Score:20.088928
 Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
 Titulo:random vibration .
 --------------------------------------------
-Linha:188-IDPergunta:291-IDDocumento:220-Score:17.947927
+Linha:188-IDPergunta:291-IDDocumento:1360-Score:19.07582
+Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
+Titulo:simplified analysis of general instability of stiffened shells in pure bending .
+--------------------------------------------
+Linha:188-IDPergunta:291-IDDocumento:220-Score:18.555393
 Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
 Titulo:general purpose analogue correlator for analysis of random noise signals .
 --------------------------------------------
-Linha:188-IDPergunta:291-IDDocumento:497-Score:15.500153
-Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
-Titulo:theoretical and experimental investigation of thermal stresses in hypersonic aircraft wing structures .
---------------------------------------------
-Linha:188-IDPergunta:291-IDDocumento:186-Score:15.376158
-Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
-Titulo:base pressure in supersonic flow .
---------------------------------------------
-Linha:188-IDPergunta:291-IDDocumento:729-Score:15.295297
+Linha:188-IDPergunta:291-IDDocumento:729-Score:15.865811
 Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
 Titulo:stresses in continuous skin stiffener panels under random loading .
 --------------------------------------------
-Linha:188-IDPergunta:291-IDDocumento:251-Score:14.700029
+Linha:188-IDPergunta:291-IDDocumento:497-Score:15.619854
 Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
-Titulo:collection of longitudinal stability derivatives of wings at supersonic speeds .
+Titulo:theoretical and experimental investigation of thermal stresses in hypersonic aircraft wing structures .
 --------------------------------------------
-Linha:188-IDPergunta:291-IDDocumento:764-Score:14.495175
+Linha:188-IDPergunta:291-IDDocumento:186-Score:15.51976
 Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
-Titulo:breathing vibrations of circular shell with internal liquid .
+Titulo:base pressure in supersonic flow .
 --------------------------------------------
-Linha:189-IDPergunta:292-IDDocumento:767-Score:22.755617
+Linha:188-IDPergunta:291-IDDocumento:1316-Score:14.8396435
+Pergunta:what theoretical and experimental work has been done on excitation and response of typical structures in noise environment .
+Titulo:temperature measurements of shock-waves by spectrum-line reversal, ii double beam method .
+--------------------------------------------
+Linha:189-IDPergunta:292-IDDocumento:767-Score:24.071283
 Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
 Titulo:mathematical techniques applying to thermal fatigue behaviour of high temperature alloys .
 --------------------------------------------
-Linha:189-IDPergunta:292-IDDocumento:870-Score:15.00278
+Linha:189-IDPergunta:292-IDDocumento:870-Score:15.379519
 Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
 Titulo:effect of rheological behaviour on thermal stresses .
 --------------------------------------------
-Linha:189-IDPergunta:292-IDDocumento:640-Score:13.828066
+Linha:189-IDPergunta:292-IDDocumento:640-Score:14.367481
 Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
 Titulo:design of structures to resist jet noise fatigue .
 --------------------------------------------
-Linha:189-IDPergunta:292-IDDocumento:881-Score:13.17314
+Linha:189-IDPergunta:292-IDDocumento:1362-Score:13.835419
+Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
+Titulo:non-linear analysis of heated, cambered wings by matrix force method .
+--------------------------------------------
+Linha:189-IDPergunta:292-IDDocumento:881-Score:13.722361
 Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
 Titulo:cumulative damage in fatigue .
 --------------------------------------------
-Linha:189-IDPergunta:292-IDDocumento:246-Score:12.734711
-Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
-Titulo:design of minimum drag tip fins . with appendix - on conformal transformation of wing with fin .
---------------------------------------------
-Linha:189-IDPergunta:292-IDDocumento:907-Score:12.603851
-Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
-Titulo:cavitation and pressure distribution head forms at zero angle of yaw .
---------------------------------------------
-Linha:189-IDPergunta:292-IDDocumento:980-Score:12.535483
-Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
-Titulo:method of computing transient temperature of thick walls from arbitrary variation of adiabatic-wall temperature and heat-transfer coefficient .
---------------------------------------------
-Linha:189-IDPergunta:292-IDDocumento:833-Score:12.318427
-Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
-Titulo:simple method of matric structural analysis, part iv, non-linear problems .
---------------------------------------------
-Linha:189-IDPergunta:292-IDDocumento:314-Score:11.992449
-Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
-Titulo:simplified method for determination of critical height of distributed roughness particles for boundary layer transition at mach numbers from 0 to 5.
---------------------------------------------
-Linha:189-IDPergunta:292-IDDocumento:865-Score:11.981399
+Linha:189-IDPergunta:292-IDDocumento:865-Score:12.8913355
 Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
 Titulo:study of thermal fatigue behaviour of metals .  effect of test conditions on nickel-base high temperature alloys .
 --------------------------------------------
-Linha:190-IDPergunta:293-IDDocumento:390-Score:31.808485
+Linha:189-IDPergunta:292-IDDocumento:246-Score:12.770785
+Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
+Titulo:design of minimum drag tip fins . with appendix - on conformal transformation of wing with fin .
+--------------------------------------------
+Linha:189-IDPergunta:292-IDDocumento:980-Score:12.770357
+Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
+Titulo:method of computing transient temperature of thick walls from arbitrary variation of adiabatic-wall temperature and heat-transfer coefficient .
+--------------------------------------------
+Linha:189-IDPergunta:292-IDDocumento:833-Score:12.705025
+Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
+Titulo:simple method of matric structural analysis, part iv, non-linear problems .
+--------------------------------------------
+Linha:189-IDPergunta:292-IDDocumento:907-Score:12.608618
+Pergunta:is there design method for calculating thermal fatigue endurances of components of various types and sizes in variety of circumstances .
+Titulo:cavitation and pressure distribution head forms at zero angle of yaw .
+--------------------------------------------
+Linha:190-IDPergunta:293-IDDocumento:390-Score:31.996347
 Pergunta:will analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is minimum number of modes that need be considered .
 Titulo:some panel-flutter studies using piston theory .
 --------------------------------------------
-Linha:190-IDPergunta:293-IDDocumento:856-Score:24.057524
+Linha:190-IDPergunta:293-IDDocumento:856-Score:24.627468
 Pergunta:will analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is minimum number of modes that need be considered .
 Titulo:some experimental studies of panel flutter at mach 1 .3.
 --------------------------------------------
-Linha:190-IDPergunta:293-IDDocumento:15-Score:23.445095
+Linha:190-IDPergunta:293-IDDocumento:15-Score:23.771576
 Pergunta:will analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is minimum number of modes that need be considered .
 Titulo:on two-dimensional panel flutter .
 --------------------------------------------
-Linha:190-IDPergunta:293-IDDocumento:52-Score:23.211906
+Linha:190-IDPergunta:293-IDDocumento:1339-Score:23.607172
+Pergunta:will analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is minimum number of modes that need be considered .
+Titulo:calculation of flutter characteristics for finite-spswept or unswept wings at subsonic and supersonic speeds by modified strip analysis .
+--------------------------------------------
+Linha:190-IDPergunta:293-IDDocumento:52-Score:23.365013
 Pergunta:will analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is minimum number of modes that need be considered .
 Titulo:procedure for calculating flutter at high supersonic speed including camber deflections, and comparison with experimental results .
 --------------------------------------------
-Linha:190-IDPergunta:293-IDDocumento:627-Score:21.798235
+Linha:190-IDPergunta:293-IDDocumento:627-Score:22.175045
 Pergunta:will analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is minimum number of modes that need be considered .
 Titulo:flutter analysis of circular panels .
 --------------------------------------------
-Linha:190-IDPergunta:293-IDDocumento:895-Score:21.53927
+Linha:190-IDPergunta:293-IDDocumento:895-Score:21.502851
 Pergunta:will analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is minimum number of modes that need be considered .
 Titulo:airforces on low aspect ratio rectangular wing oscillating in sonic flow .
 --------------------------------------------
-Linha:190-IDPergunta:293-IDDocumento:42-Score:20.041746
+Linha:190-IDPergunta:293-IDDocumento:1069-Score:21.431744
 Pergunta:will analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is minimum number of modes that need be considered .
-Titulo:gyroscopic effect of rigid rotating propeller on engine and wing vibration modes .
+Titulo:design and testing of honeycomb sandwich cylinders under axial compression .
 --------------------------------------------
-Linha:190-IDPergunta:293-IDDocumento:14-Score:18.894012
+Linha:190-IDPergunta:293-IDDocumento:1322-Score:20.38047
 Pergunta:will analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is minimum number of modes that need be considered .
-Titulo:piston theory - new aerodynamic tool for aeroelastici.
+Titulo:qualitiative solutions of stability equation for boundary layer in  contact with various forms of flexible surface .
 --------------------------------------------
-Linha:190-IDPergunta:293-IDDocumento:391-Score:18.425423
+Linha:190-IDPergunta:293-IDDocumento:1035-Score:20.146093
 Pergunta:will analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is minimum number of modes that need be considered .
-Titulo:flutter of rectangular simply supported panels at high supersonic speeds .
+Titulo:note on creep buckling of columns .
 --------------------------------------------
-Linha:190-IDPergunta:293-IDDocumento:948-Score:18.208946
-Pergunta:will analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is minimum number of modes that need be considered .
-Titulo:panel flutter tests on full scale x-15 lower vertical stabilizer at mach number of 3. 0.
---------------------------------------------
-Linha:191-IDPergunta:294-IDDocumento:766-Score:20.342443
+Linha:191-IDPergunta:294-IDDocumento:766-Score:20.995308
 Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
 Titulo:experimental investigation at mach number of 3. 0 of effects of thermal stress and buckling on flutter characteristics of flat single-bay panels of length-width ratio 0. 96 .
 --------------------------------------------
-Linha:191-IDPergunta:294-IDDocumento:894-Score:18.115318
+Linha:191-IDPergunta:294-IDDocumento:894-Score:18.659369
 Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
 Titulo:flutter of two dimensional simply supported buckled panel with elastic restraint against edge displacement .
 --------------------------------------------
-Linha:191-IDPergunta:294-IDDocumento:827-Score:15.904031
+Linha:191-IDPergunta:294-IDDocumento:1392-Score:16.717358
 Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
-Titulo:nonlinear theory of bending and buckling of thin elastic shallow spherical shells .
+Titulo:solution of small displacement, stability or vibration problems concerning flat rectangular panel when edges are either clamped or simply supported .
 --------------------------------------------
-Linha:191-IDPergunta:294-IDDocumento:15-Score:15.499276
+Linha:191-IDPergunta:294-IDDocumento:1242-Score:16.595213
 Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
-Titulo:on two-dimensional panel flutter .
+Titulo:some considerations on laminar stability of time-dependent basic flows .
 --------------------------------------------
-Linha:191-IDPergunta:294-IDDocumento:658-Score:15.491193
+Linha:191-IDPergunta:294-IDDocumento:658-Score:16.062426
 Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
 Titulo:review of panel flutter and effects of aerodynamic noise part i..  panel flutter .
 --------------------------------------------
-Linha:191-IDPergunta:294-IDDocumento:948-Score:14.68836
+Linha:191-IDPergunta:294-IDDocumento:15-Score:16.035074
+Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
+Titulo:on two-dimensional panel flutter .
+--------------------------------------------
+Linha:191-IDPergunta:294-IDDocumento:827-Score:15.915804
+Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
+Titulo:nonlinear theory of bending and buckling of thin elastic shallow spherical shells .
+--------------------------------------------
+Linha:191-IDPergunta:294-IDDocumento:948-Score:15.250643
 Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
 Titulo:panel flutter tests on full scale x-15 lower vertical stabilizer at mach number of 3. 0.
 --------------------------------------------
-Linha:191-IDPergunta:294-IDDocumento:319-Score:14.354679
+Linha:191-IDPergunta:294-IDDocumento:319-Score:14.724739
 Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
 Titulo:propagation of weak disturbances in gas subject to relaxation effects .
 --------------------------------------------
-Linha:191-IDPergunta:294-IDDocumento:627-Score:14.065852
+Linha:191-IDPergunta:294-IDDocumento:627-Score:14.608449
 Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
 Titulo:flutter analysis of circular panels .
 --------------------------------------------
-Linha:191-IDPergunta:294-IDDocumento:75-Score:13.717871
-Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
-Titulo:studies of structural failure due to acoustic loading .
---------------------------------------------
-Linha:191-IDPergunta:294-IDDocumento:720-Score:13.582213
-Pergunta:what is criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
-Titulo:note on use of sandwich structures in severe acoustic environments .
---------------------------------------------
-Linha:192-IDPergunta:295-IDDocumento:641-Score:18.193092
+Linha:192-IDPergunta:295-IDDocumento:641-Score:18.263277
 Pergunta:papers dealing with uniformly loaded sectors .
 Titulo:reduction of clamped plate to two membrane problems with application to uniformly loaded sectors .
 --------------------------------------------
-Linha:192-IDPergunta:295-IDDocumento:735-Score:14.325838
-Pergunta:papers dealing with uniformly loaded sectors .
-Titulo:bending of uniformly loaded sectorial plates with clamped edges .
---------------------------------------------
-Linha:192-IDPergunta:295-IDDocumento:875-Score:14.105957
+Linha:192-IDPergunta:295-IDDocumento:875-Score:14.730903
 Pergunta:papers dealing with uniformly loaded sectors .
 Titulo:models for aeroelastic investigation .
 --------------------------------------------
-Linha:192-IDPergunta:295-IDDocumento:647-Score:13.224466
+Linha:192-IDPergunta:295-IDDocumento:735-Score:13.876145
+Pergunta:papers dealing with uniformly loaded sectors .
+Titulo:bending of uniformly loaded sectorial plates with clamped edges .
+--------------------------------------------
+Linha:192-IDPergunta:295-IDDocumento:647-Score:12.787894
 Pergunta:papers dealing with uniformly loaded sectors .
 Titulo:bending of uniformly loaded rectangular plate with two adjacent edges and others either simply supported or free .
 --------------------------------------------
-Linha:192-IDPergunta:295-IDDocumento:734-Score:10.4798565
+Linha:192-IDPergunta:295-IDDocumento:734-Score:10.1265
 Pergunta:papers dealing with uniformly loaded sectors .
 Titulo:bending of uniformly loaded clamped plate in form of circular sector .
 --------------------------------------------
-Linha:192-IDPergunta:295-IDDocumento:648-Score:9.876378
+Linha:192-IDPergunta:295-IDDocumento:648-Score:9.54645
 Pergunta:papers dealing with uniformly loaded sectors .
 Titulo:approximate analysis of certain boundary value problems .
 --------------------------------------------
-Linha:192-IDPergunta:295-IDDocumento:733-Score:7.8171744
+Linha:192-IDPergunta:295-IDDocumento:1398-Score:8.79375
 Pergunta:papers dealing with uniformly loaded sectors .
-Titulo:bending of sectorial plate .
+Titulo:stability of rectangular plates under shear and bending forces .
 --------------------------------------------
-Linha:192-IDPergunta:295-IDDocumento:46-Score:7.670032
+Linha:192-IDPergunta:295-IDDocumento:46-Score:7.9973145
 Pergunta:papers dealing with uniformly loaded sectors .
 Titulo:some comments on inversion of certain large matrices .
 --------------------------------------------
-Linha:192-IDPergunta:295-IDDocumento:950-Score:6.8063946
+Linha:192-IDPergunta:295-IDDocumento:733-Score:7.552565
 Pergunta:papers dealing with uniformly loaded sectors .
-Titulo:comparison of theoretical and experimental creep buckling times of initially straight, centrally loaded columns .
+Titulo:bending of sectorial plate .
 --------------------------------------------
-Linha:192-IDPergunta:295-IDDocumento:388-Score:6.794487
+Linha:192-IDPergunta:295-IDDocumento:388-Score:7.0823526
 Pergunta:papers dealing with uniformly loaded sectors .
 Titulo:pressure gradient induced by shear flow past flat plate .
 --------------------------------------------
-Linha:193-IDPergunta:296-IDDocumento:733-Score:18.195797
+Linha:193-IDPergunta:296-IDDocumento:733-Score:18.270824
 Pergunta:general methods of solving clamped plate problems .
 Titulo:bending of sectorial plate .
 --------------------------------------------
-Linha:193-IDPergunta:296-IDDocumento:641-Score:15.518033
+Linha:193-IDPergunta:296-IDDocumento:641-Score:15.755752
 Pergunta:general methods of solving clamped plate problems .
 Titulo:reduction of clamped plate to two membrane problems with application to uniformly loaded sectors .
 --------------------------------------------
-Linha:193-IDPergunta:296-IDDocumento:730-Score:15.450275
+Linha:193-IDPergunta:296-IDDocumento:730-Score:15.687051
 Pergunta:general methods of solving clamped plate problems .
 Titulo:on bending of clamped plate .
 --------------------------------------------
-Linha:193-IDPergunta:296-IDDocumento:735-Score:13.110101
+Linha:193-IDPergunta:296-IDDocumento:735-Score:13.318324
 Pergunta:general methods of solving clamped plate problems .
 Titulo:bending of uniformly loaded sectorial plates with clamped edges .
 --------------------------------------------
-Linha:193-IDPergunta:296-IDDocumento:734-Score:12.939583
-Pergunta:general methods of solving clamped plate problems .
-Titulo:bending of uniformly loaded clamped plate in form of circular sector .
---------------------------------------------
-Linha:193-IDPergunta:296-IDDocumento:422-Score:12.818562
+Linha:193-IDPergunta:296-IDDocumento:422-Score:12.97491
 Pergunta:general methods of solving clamped plate problems .
 Titulo:bending of square plate with two adjacent edges free and others clamped or simply supported .
 --------------------------------------------
-Linha:193-IDPergunta:296-IDDocumento:736-Score:10.620004
+Linha:193-IDPergunta:296-IDDocumento:734-Score:12.93966
+Pergunta:general methods of solving clamped plate problems .
+Titulo:bending of uniformly loaded clamped plate in form of circular sector .
+--------------------------------------------
+Linha:193-IDPergunta:296-IDDocumento:1088-Score:12.171528
+Pergunta:general methods of solving clamped plate problems .
+Titulo:iterative methods for solving partial difference equations of elliptic type .
+--------------------------------------------
+Linha:193-IDPergunta:296-IDDocumento:1392-Score:11.368409
+Pergunta:general methods of solving clamped plate problems .
+Titulo:solution of small displacement, stability or vibration problems concerning flat rectangular panel when edges are either clamped or simply supported .
+--------------------------------------------
+Linha:193-IDPergunta:296-IDDocumento:736-Score:10.843172
 Pergunta:general methods of solving clamped plate problems .
 Titulo:bending of wedge shaped plate .
 --------------------------------------------
-Linha:193-IDPergunta:296-IDDocumento:703-Score:10.557653
-Pergunta:general methods of solving clamped plate problems .
-Titulo:general airfoil theory .
---------------------------------------------
-Linha:193-IDPergunta:296-IDDocumento:454-Score:10.286393
+Linha:193-IDPergunta:296-IDDocumento:454-Score:10.3712635
 Pergunta:general methods of solving clamped plate problems .
 Titulo:several approximate analyses of bending of rectangular cantilever plate by uniform normal pressure .
 --------------------------------------------
-Linha:193-IDPergunta:296-IDDocumento:145-Score:9.816928
-Pergunta:general methods of solving clamped plate problems .
-Titulo:skin friction in laminar boundary layer in compressible flow .
---------------------------------------------
-Linha:194-IDPergunta:297-IDDocumento:642-Score:44.362614
+Linha:194-IDPergunta:297-IDDocumento:642-Score:40.713802
 Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
 Titulo:buckling strength of uniform circular cylinder loaded in axial compression .
 --------------------------------------------
-Linha:194-IDPergunta:297-IDDocumento:744-Score:34.112522
+Linha:194-IDPergunta:297-IDDocumento:744-Score:31.777298
 Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
 Titulo:lower buckling load in non-linear buckling theory of thin shells .
 --------------------------------------------
-Linha:194-IDPergunta:297-IDDocumento:932-Score:33.412342
+Linha:194-IDPergunta:297-IDDocumento:932-Score:30.439438
 Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
 Titulo:buckling of circular cones under axial compression .
 --------------------------------------------
-Linha:194-IDPergunta:297-IDDocumento:741-Score:27.08812
+Linha:194-IDPergunta:297-IDDocumento:1178-Score:25.880846
+Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
+Titulo:buckling of ring-stiffened cylinders under pure bending moment and nonuniform temperature distribution .
+--------------------------------------------
+Linha:194-IDPergunta:297-IDDocumento:741-Score:24.604837
 Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
 Titulo:behaviour of thin cylindrical shells after buckling under axial compression .
 --------------------------------------------
-Linha:194-IDPergunta:297-IDDocumento:740-Score:26.271393
+Linha:194-IDPergunta:297-IDDocumento:1172-Score:24.603516
+Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
+Titulo:elastic stability of circular cylindrical shells stabilized by soft elastic core .
+--------------------------------------------
+Linha:194-IDPergunta:297-IDDocumento:740-Score:24.383966
 Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
 Titulo:behaviour of cylindrical shell under axial compression when buckling load has been exceeded .
 --------------------------------------------
-Linha:194-IDPergunta:297-IDDocumento:957-Score:25.438757
+Linha:194-IDPergunta:297-IDDocumento:1051-Score:24.249052
 Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
-Titulo:axisymmetric snap buckling of conical shells .
+Titulo:stability of thin-walled unstiffened circular cylinders under axial compression including effects of internal pressure .
 --------------------------------------------
-Linha:194-IDPergunta:297-IDDocumento:739-Score:25.233013
+Linha:194-IDPergunta:297-IDDocumento:1173-Score:24.20277
 Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
-Titulo:buckling of thin cylindrical shells under axial compression .
+Titulo:buckling of cylindrical shells under longitudinally varying loads .
 --------------------------------------------
-Linha:194-IDPergunta:297-IDDocumento:760-Score:25.147896
+Linha:194-IDPergunta:297-IDDocumento:1126-Score:24.13857
 Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
-Titulo:inelastic buckling of initially imperfect cylindrical shells subject to axial compression .
+Titulo:engineer's conceptual approach to buckling of cylindrical shell (axial loading) .
 --------------------------------------------
-Linha:194-IDPergunta:297-IDDocumento:839-Score:24.85659
-Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
-Titulo:bending stability of thin-- walled unstiffened circular cylinders including effects of internal pressure .
---------------------------------------------
-Linha:194-IDPergunta:297-IDDocumento:888-Score:24.367918
-Pergunta:how canalytical solution of buckling strength of uniform circular cylinder loaded in axial compression be refined so as to lower buckling load .
-Titulo:combinations of temperature and axial compression required for buckling of ring-stiffened cylinder .
---------------------------------------------
-Linha:195-IDPergunta:298-IDDocumento:642-Score:35.01985
+Linha:195-IDPergunta:298-IDDocumento:642-Score:32.518806
 Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
 Titulo:buckling strength of uniform circular cylinder loaded in axial compression .
 --------------------------------------------
-Linha:195-IDPergunta:298-IDDocumento:744-Score:30.701242
+Linha:195-IDPergunta:298-IDDocumento:744-Score:29.323502
 Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
 Titulo:lower buckling load in non-linear buckling theory of thin shells .
 --------------------------------------------
-Linha:195-IDPergunta:298-IDDocumento:932-Score:28.929274
+Linha:195-IDPergunta:298-IDDocumento:932-Score:26.489096
 Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
 Titulo:buckling of circular cones under axial compression .
 --------------------------------------------
-Linha:195-IDPergunta:298-IDDocumento:739-Score:27.305489
+Linha:195-IDPergunta:298-IDDocumento:1122-Score:26.443983
+Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
+Titulo:on role of initial imperfections in plastic buckling of cylinders under axial compression .
+--------------------------------------------
+Linha:195-IDPergunta:298-IDDocumento:739-Score:25.901054
 Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
 Titulo:buckling of thin cylindrical shells under axial compression .
 --------------------------------------------
-Linha:195-IDPergunta:298-IDDocumento:457-Score:23.42361
+Linha:195-IDPergunta:298-IDDocumento:1055-Score:25.897182
+Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
+Titulo:non-linear bending and buckling of circular plates .
+--------------------------------------------
+Linha:195-IDPergunta:298-IDDocumento:457-Score:23.648405
 Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
 Titulo:on laminar boundary-layer flow near position of separation .
 --------------------------------------------
-Linha:195-IDPergunta:298-IDDocumento:839-Score:22.992401
+Linha:195-IDPergunta:298-IDDocumento:1067-Score:23.400808
 Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
-Titulo:bending stability of thin-- walled unstiffened circular cylinders including effects of internal pressure .
+Titulo:plastic stability theory of geometrically orthotropic plates and cylindrical shells .
 --------------------------------------------
-Linha:195-IDPergunta:298-IDDocumento:831-Score:22.660334
+Linha:195-IDPergunta:298-IDDocumento:1359-Score:23.322763
+Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
+Titulo:compression tests on circular cylinders stiffened longitudinally by closely spaced z-section stringers .
+--------------------------------------------
+Linha:195-IDPergunta:298-IDDocumento:831-Score:21.771769
 Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
 Titulo:buckling of shallow shells under external pressure .
 --------------------------------------------
-Linha:195-IDPergunta:298-IDDocumento:627-Score:21.323223
-Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
-Titulo:flutter analysis of circular panels .
---------------------------------------------
-Linha:195-IDPergunta:298-IDDocumento:863-Score:21.231241
-Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
-Titulo:loads and deformations of buckled rectangular plates .
---------------------------------------------
-Linha:195-IDPergunta:298-IDDocumento:928-Score:20.672016
-Pergunta:in problem of buckling strength of uniform circular cylinders loaded in axial compression,  does linear solution help with improving non-linear one .
-Titulo:new theory for buckling of thin cylinders under axial compression and bending .
---------------------------------------------
-Linha:196-IDPergunta:299-IDDocumento:184-Score:18.256077
+Linha:196-IDPergunta:299-IDDocumento:184-Score:18.661154
 Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
 Titulo:scale models for thermo-aeroelastic research .
 --------------------------------------------
-Linha:196-IDPergunta:299-IDDocumento:486-Score:15.166363
+Linha:196-IDPergunta:299-IDDocumento:1361-Score:15.851615
+Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
+Titulo:large deflections of structures subjected to heating and external loads .
+--------------------------------------------
+Linha:196-IDPergunta:299-IDDocumento:1008-Score:15.600077
+Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
+Titulo:free-flight measurements of static and dynamic .
+--------------------------------------------
+Linha:196-IDPergunta:299-IDDocumento:486-Score:15.468281
 Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
 Titulo:similarity laws for aerothermoelastic testing .
 --------------------------------------------
-Linha:196-IDPergunta:299-IDDocumento:966-Score:13.977388
-Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
-Titulo:on fully developed channel flows,. some solutions and limitations, and effects of compressibility, variable properties, and body forces .
---------------------------------------------
-Linha:196-IDPergunta:299-IDDocumento:875-Score:13.790536
+Linha:196-IDPergunta:299-IDDocumento:875-Score:13.933661
 Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
 Titulo:models for aeroelastic investigation .
 --------------------------------------------
-Linha:196-IDPergunta:299-IDDocumento:746-Score:13.284082
+Linha:196-IDPergunta:299-IDDocumento:966-Score:13.78457
+Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
+Titulo:on fully developed channel flows,. some solutions and limitations, and effects of compressibility, variable properties, and body forces .
+--------------------------------------------
+Linha:196-IDPergunta:299-IDDocumento:746-Score:13.443149
 Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
 Titulo:aeroelastic problems in connection with high speed flight .
 --------------------------------------------
-Linha:196-IDPergunta:299-IDDocumento:142-Score:12.920915
+Linha:196-IDPergunta:299-IDDocumento:142-Score:12.968118
 Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
 Titulo:problem of aerodynamic heating .
 --------------------------------------------
-Linha:196-IDPergunta:299-IDDocumento:390-Score:12.4477
+Linha:196-IDPergunta:299-IDDocumento:390-Score:12.5583105
 Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
 Titulo:some panel-flutter studies using piston theory .
 --------------------------------------------
-Linha:196-IDPergunta:299-IDDocumento:442-Score:12.362188
+Linha:196-IDPergunta:299-IDDocumento:1177-Score:12.505125
 Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
-Titulo:some effects of variations in several parameters including fluid density on flutter speed of light uniform cantilever wings .
+Titulo:effects of rapid heating on strength of airframe components .
 --------------------------------------------
-Linha:196-IDPergunta:299-IDDocumento:349-Score:11.761882
-Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
-Titulo:numerical solution of boundary layer equations without similarity assumptions .
---------------------------------------------
-Linha:196-IDPergunta:299-IDDocumento:57-Score:11.012115
-Pergunta:problem of similarity for representative investigation of aeroelastic effects in flow with absence of heating effects .
-Titulo:applicability of hypersonic similarity rule to pressure distributions which include effects of rotation for bodies of revolution at zero angle of attack .
---------------------------------------------
-Linha:197-IDPergunta:300-IDDocumento:723-Score:20.984838
+Linha:197-IDPergunta:300-IDDocumento:723-Score:21.524261
 Pergunta:how is fatigue damage estimated using normal long-hand method .
 Titulo:on fatigue failure of structures due to vibrations excited by random pressure fields .
 --------------------------------------------
-Linha:197-IDPergunta:300-IDDocumento:881-Score:18.186913
+Linha:197-IDPergunta:300-IDDocumento:881-Score:18.841091
 Pergunta:how is fatigue damage estimated using normal long-hand method .
 Titulo:cumulative damage in fatigue .
 --------------------------------------------
-Linha:197-IDPergunta:300-IDDocumento:884-Score:17.837961
+Linha:197-IDPergunta:300-IDDocumento:884-Score:18.62744
 Pergunta:how is fatigue damage estimated using normal long-hand method .
 Titulo:estimation of fatigue damage on structural elements .
 --------------------------------------------
-Linha:197-IDPergunta:300-IDDocumento:726-Score:15.341755
+Linha:197-IDPergunta:300-IDDocumento:726-Score:16.018183
 Pergunta:how is fatigue damage estimated using normal long-hand method .
 Titulo:on structural fatigue under random loading .
 --------------------------------------------
-Linha:197-IDPergunta:300-IDDocumento:768-Score:13.97405
+Linha:197-IDPergunta:300-IDDocumento:768-Score:14.744446
 Pergunta:how is fatigue damage estimated using normal long-hand method .
 Titulo:formulae for use with fatigue load meter in assessment of wing fatigue life .
 --------------------------------------------
-Linha:197-IDPergunta:300-IDDocumento:261-Score:12.248869
+Linha:197-IDPergunta:300-IDDocumento:261-Score:12.210966
 Pergunta:how is fatigue damage estimated using normal long-hand method .
 Titulo:experiments on axi-symmetric boundary layers along long cylinder in incompressible flow .
 --------------------------------------------
-Linha:197-IDPergunta:300-IDDocumento:746-Score:11.806785
-Pergunta:how is fatigue damage estimated using normal long-hand method .
-Titulo:aeroelastic problems in connection with high speed flight .
---------------------------------------------
-Linha:197-IDPergunta:300-IDDocumento:724-Score:11.705514
+Linha:197-IDPergunta:300-IDDocumento:724-Score:12.053119
 Pergunta:how is fatigue damage estimated using normal long-hand method .
 Titulo:structural acoustic proof testing .
 --------------------------------------------
-Linha:197-IDPergunta:300-IDDocumento:909-Score:11.39239
+Linha:197-IDPergunta:300-IDDocumento:909-Score:12.027671
 Pergunta:how is fatigue damage estimated using normal long-hand method .
 Titulo:effect of jet noise on aircraft structures .
 --------------------------------------------
-Linha:197-IDPergunta:300-IDDocumento:767-Score:9.634267
+Linha:197-IDPergunta:300-IDDocumento:746-Score:11.848763
+Pergunta:how is fatigue damage estimated using normal long-hand method .
+Titulo:aeroelastic problems in connection with high speed flight .
+--------------------------------------------
+Linha:197-IDPergunta:300-IDDocumento:767-Score:10.23075
 Pergunta:how is fatigue damage estimated using normal long-hand method .
 Titulo:mathematical techniques applying to thermal fatigue behaviour of high temperature alloys .
 --------------------------------------------
-Linha:198-IDPergunta:301-IDDocumento:889-Score:20.839958
+Linha:198-IDPergunta:301-IDDocumento:889-Score:19.823889
 Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
 Titulo:simplified method of elastic stability analysis for thin cylindrical shells .
 --------------------------------------------
-Linha:198-IDPergunta:301-IDDocumento:897-Score:18.254517
+Linha:198-IDPergunta:301-IDDocumento:1126-Score:17.758554
+Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
+Titulo:engineer's conceptual approach to buckling of cylindrical shell (axial loading) .
+--------------------------------------------
+Linha:198-IDPergunta:301-IDDocumento:897-Score:17.124933
 Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
 Titulo:some results on buckling and postbuckling of cylindrical shells .
 --------------------------------------------
-Linha:198-IDPergunta:301-IDDocumento:743-Score:17.664207
+Linha:198-IDPergunta:301-IDDocumento:1174-Score:17.046595
+Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
+Titulo:general theory of buckling .
+--------------------------------------------
+Linha:198-IDPergunta:301-IDDocumento:743-Score:16.505852
 Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
 Titulo:new developments in nonlinear theories of buckling of thin cylindrical shells .
 --------------------------------------------
-Linha:198-IDPergunta:301-IDDocumento:826-Score:16.734524
+Linha:198-IDPergunta:301-IDDocumento:1068-Score:16.196915
 Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
-Titulo:small bending and stretching of sandwich type shells .
+Titulo:instability analysis of cylindrical shells under hydrostatic pressure .
 --------------------------------------------
-Linha:198-IDPergunta:301-IDDocumento:843-Score:16.72519
+Linha:198-IDPergunta:301-IDDocumento:1051-Score:16.157785
+Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
+Titulo:stability of thin-walled unstiffened circular cylinders under axial compression including effects of internal pressure .
+--------------------------------------------
+Linha:198-IDPergunta:301-IDDocumento:843-Score:15.975149
 Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
 Titulo:simplified method of elastic stability analysis for thin cylindrical shells .
 --------------------------------------------
-Linha:198-IDPergunta:301-IDDocumento:760-Score:16.196413
+Linha:198-IDPergunta:301-IDDocumento:826-Score:15.862226
 Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
-Titulo:inelastic buckling of initially imperfect cylindrical shells subject to axial compression .
+Titulo:small bending and stretching of sandwich type shells .
 --------------------------------------------
-Linha:198-IDPergunta:301-IDDocumento:887-Score:16.1609
-Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
-Titulo:buckling due to thermal stress of cylindrical shells subjected to axial temperature distributions .
---------------------------------------------
-Linha:198-IDPergunta:301-IDDocumento:763-Score:15.871644
+Linha:198-IDPergunta:301-IDDocumento:763-Score:15.12766
 Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
 Titulo:effects of internal pressure on buckling of circular-cylindrical shells under bending.
 --------------------------------------------
-Linha:198-IDPergunta:301-IDDocumento:890-Score:15.612073
-Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
-Titulo:comments on 'thermal buckling of clamped cylindrical shells' .
---------------------------------------------
-Linha:198-IDPergunta:301-IDDocumento:741-Score:15.556905
-Pergunta:is there any information available on difference in effects of various edge conditions on buckling of cylindrical shells .
-Titulo:behaviour of thin cylindrical shells after buckling under axial compression .
---------------------------------------------
-Linha:199-IDPergunta:303-IDDocumento:739-Score:19.225866
+Linha:199-IDPergunta:303-IDDocumento:739-Score:18.9612
 Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
 Titulo:buckling of thin cylindrical shells under axial compression .
 --------------------------------------------
-Linha:199-IDPergunta:303-IDDocumento:428-Score:15.39914
+Linha:199-IDPergunta:303-IDDocumento:1294-Score:17.04096
+Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
+Titulo:non-linear shallow shell analysis by matrix force method .
+--------------------------------------------
+Linha:199-IDPergunta:303-IDDocumento:428-Score:15.065531
 Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
 Titulo:quasi-cylinder of specified thickness and shell loading in supersonic flow .
 --------------------------------------------
-Linha:199-IDPergunta:303-IDDocumento:852-Score:15.082198
+Linha:199-IDPergunta:303-IDDocumento:852-Score:14.854343
 Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
 Titulo:stress and displacement analysis of simply supported non- circular cylindrical shell under lateral pressure .
 --------------------------------------------
-Linha:199-IDPergunta:303-IDDocumento:451-Score:14.053756
+Linha:199-IDPergunta:303-IDDocumento:451-Score:14.006374
 Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
 Titulo:liapunov's methods in automatic control theory .
 --------------------------------------------
-Linha:199-IDPergunta:303-IDDocumento:769-Score:13.46238
+Linha:199-IDPergunta:303-IDDocumento:769-Score:13.303011
 Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
 Titulo:local circumferential buckling of thin circular cylindrical shells .
 --------------------------------------------
-Linha:199-IDPergunta:303-IDDocumento:931-Score:12.796907
+Linha:199-IDPergunta:303-IDDocumento:1051-Score:13.056298
 Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
-Titulo:stability equations for conical shells .
+Titulo:stability of thin-walled unstiffened circular cylinders under axial compression including effects of internal pressure .
 --------------------------------------------
-Linha:199-IDPergunta:303-IDDocumento:827-Score:12.647527
+Linha:199-IDPergunta:303-IDDocumento:827-Score:12.704356
 Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
 Titulo:nonlinear theory of bending and buckling of thin elastic shallow spherical shells .
 --------------------------------------------
-Linha:199-IDPergunta:303-IDDocumento:744-Score:12.381009
+Linha:199-IDPergunta:303-IDDocumento:931-Score:12.515509
+Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
+Titulo:stability equations for conical shells .
+--------------------------------------------
+Linha:199-IDPergunta:303-IDDocumento:744-Score:12.427789
 Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
 Titulo:lower buckling load in non-linear buckling theory of thin shells .
 --------------------------------------------
-Linha:199-IDPergunta:303-IDDocumento:930-Score:12.36856
-Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
-Titulo:general theory of large deflections of thin shells with special applications to conical shells .
+Linha:200-IDPergunta:304-IDDocumento:1071-Score:24.788431
+Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
+Titulo:stability of thin torispherical shells under uniform internal pressure .
 --------------------------------------------
-Linha:199-IDPergunta:303-IDDocumento:828-Score:12.197081
-Pergunta:have non-linear large deflection analyses been conducted for shell shapes other thconical .
-Titulo:stresses and small displacements of shallow spherical shells .
+Linha:200-IDPergunta:304-IDDocumento:1134-Score:23.570751
+Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
+Titulo:torispherical shells - caution to designers .
 --------------------------------------------
-Linha:200-IDPergunta:304-IDDocumento:851-Score:17.7912
+Linha:200-IDPergunta:304-IDDocumento:1053-Score:22.86856
+Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
+Titulo:spherical cap snapping .
+--------------------------------------------
+Linha:200-IDPergunta:304-IDDocumento:1362-Score:17.415457
+Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
+Titulo:non-linear analysis of heated, cambered wings by matrix force method .
+--------------------------------------------
+Linha:200-IDPergunta:304-IDDocumento:851-Score:17.24559
 Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
 Titulo:energy expressions and differential equations for stress and displacement analysis of arbitrary cylindrical shells .
 --------------------------------------------
-Linha:200-IDPergunta:304-IDDocumento:934-Score:16.634605
+Linha:200-IDPergunta:304-IDDocumento:1117-Score:17.214495
+Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
+Titulo:stability of orthotropic cylindrical shells under combined loading .
+--------------------------------------------
+Linha:200-IDPergunta:304-IDDocumento:1137-Score:16.944948
+Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
+Titulo:on theory of thin elastic toroidal shells .
+--------------------------------------------
+Linha:200-IDPergunta:304-IDDocumento:934-Score:16.418795
 Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
 Titulo:stability of cylindrical and conical shells of circular cross section, with simultaneous action of axial compression and external normal pressure .
 --------------------------------------------
-Linha:200-IDPergunta:304-IDDocumento:760-Score:16.452246
-Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
-Titulo:inelastic buckling of initially imperfect cylindrical shells subject to axial compression .
---------------------------------------------
-Linha:200-IDPergunta:304-IDDocumento:935-Score:16.319092
-Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
-Titulo:buckling of thin single- and multi-layer conical and cylindrical shells with rotationally symmetric stresses .
---------------------------------------------
-Linha:200-IDPergunta:304-IDDocumento:159-Score:16.245365
+Linha:200-IDPergunta:304-IDDocumento:159-Score:16.33034
 Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
 Titulo:numerical methods for transient heat flow .
 --------------------------------------------
-Linha:200-IDPergunta:304-IDDocumento:128-Score:15.687677
-Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
-Titulo:effects of free stream vorticity on behaviour of viscous boundary layer .
---------------------------------------------
-Linha:200-IDPergunta:304-IDDocumento:730-Score:15.626499
+Linha:200-IDPergunta:304-IDDocumento:730-Score:15.57501
 Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
 Titulo:on bending of clamped plate .
 --------------------------------------------
-Linha:200-IDPergunta:304-IDDocumento:885-Score:15.548897
-Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
-Titulo:buckling of thin cylindrical shells under hoop stresses varying in axial direction .
---------------------------------------------
-Linha:200-IDPergunta:304-IDDocumento:461-Score:15.050843
-Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
-Titulo:approximate methods fore predicting separation properties of laminar boundary layers .
---------------------------------------------
-Linha:200-IDPergunta:304-IDDocumento:370-Score:14.596193
-Pergunta:are asymptotic methods sufficiently accurate in determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
-Titulo:theoretical pressure distribution on hemisphere-cylinder combination .
---------------------------------------------
-Linha:201-IDPergunta:306-IDDocumento:625-Score:27.384449
+Linha:201-IDPergunta:306-IDDocumento:625-Score:27.11487
 Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
 Titulo:viscous and inviscid nonequilibrium gas flows .
 --------------------------------------------
-Linha:201-IDPergunta:306-IDDocumento:401-Score:19.555437
+Linha:201-IDPergunta:306-IDDocumento:1297-Score:19.50057
+Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
+Titulo:ionization nonequilibrium in expanding flows .
+--------------------------------------------
+Linha:201-IDPergunta:306-IDDocumento:401-Score:19.075619
 Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
 Titulo:inviscid hypersonic airflows with coupled non-equilibrium processes .
 --------------------------------------------
-Linha:201-IDPergunta:306-IDDocumento:82-Score:14.86688
+Linha:201-IDPergunta:306-IDDocumento:1296-Score:18.848282
+Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
+Titulo:non-equilibrium expansions of air with coupled chemical reactions .
+--------------------------------------------
+Linha:201-IDPergunta:306-IDDocumento:1217-Score:16.332678
+Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
+Titulo:application of inequality constraints to variational problems of lifting re-entry .
+--------------------------------------------
+Linha:201-IDPergunta:306-IDDocumento:1391-Score:15.091839
+Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
+Titulo:shock wave and flow field development in hypersonic re-entry .
+--------------------------------------------
+Linha:201-IDPergunta:306-IDDocumento:1379-Score:14.994293
+Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
+Titulo:hypersonic flight and re-entry problem .
+--------------------------------------------
+Linha:201-IDPergunta:306-IDDocumento:82-Score:14.477152
 Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
 Titulo:theoretical investigation of ablation of glass-type heat protection shield of varied material properties at stagnation point of re-entering irbm .
 --------------------------------------------
-Linha:201-IDPergunta:306-IDDocumento:318-Score:14.742511
-Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
-Titulo:inviscid hypersonic flow past blunt bodies .
---------------------------------------------
-Linha:201-IDPergunta:306-IDDocumento:410-Score:14.705389
+Linha:201-IDPergunta:306-IDDocumento:410-Score:14.429581
 Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
 Titulo:supersonic flow about blunt body of revolution for gases at chemical equilibrium .
 --------------------------------------------
-Linha:201-IDPergunta:306-IDDocumento:509-Score:14.418028
+Linha:201-IDPergunta:306-IDDocumento:318-Score:14.338918
 Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
-Titulo:graphical approximation for temperatures and sublimation rates at surfaces subjected to small net and large gross heat transfer rates .
+Titulo:inviscid hypersonic flow past blunt bodies .
 --------------------------------------------
-Linha:201-IDPergunta:306-IDDocumento:541-Score:13.937765
-Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
-Titulo:similitude of hypersonic flows over slender bodies in non-equilibrium dissociated gases .
+Linha:202-IDPergunta:314-IDDocumento:1285-Score:29.49496
+Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
+Titulo:experiments at hypersonic speeds on circular cones at incidence .
 --------------------------------------------
-Linha:201-IDPergunta:306-IDDocumento:274-Score:13.66797
-Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
-Titulo:analysis of quartz and teflon shields for particular re-entry mission .
+Linha:202-IDPergunta:314-IDDocumento:1310-Score:25.659664
+Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
+Titulo:survey of inviscid hypersonic flow theory for geometrically slender shapes .
 --------------------------------------------
-Linha:201-IDPergunta:306-IDDocumento:554-Score:13.2113695
-Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
-Titulo:generalized heat transfer formulas and graphs .
---------------------------------------------
-Linha:201-IDPergunta:306-IDDocumento:24-Score:13.083369
-Pergunta:what are nonequilibrium chemical constituents in viscous shock layer ahead of blunt re-entry vehicle .
-Titulo:theory of stagnation point heat transfer in dissociated air .
---------------------------------------------
-Linha:202-IDPergunta:314-IDDocumento:232-Score:18.304272
+Linha:202-IDPergunta:314-IDDocumento:232-Score:18.101805
 Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
 Titulo:accuracy of approximate methods for predicting pressure on pointed non-lifting bodies of revolution in supersonic flow .
 --------------------------------------------
-Linha:202-IDPergunta:314-IDDocumento:687-Score:16.8803
+Linha:202-IDPergunta:314-IDDocumento:687-Score:16.970114
 Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
 Titulo:oscillating airfoils at high mach number .
 --------------------------------------------
-Linha:202-IDPergunta:314-IDDocumento:979-Score:15.606755
-Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
-Titulo:correlation of base pressure and wake structure of sharp and blunt-nose cones with reynolds number based on boundary layer momentum thickness .
---------------------------------------------
-Linha:202-IDPergunta:314-IDDocumento:925-Score:15.590467
+Linha:202-IDPergunta:314-IDDocumento:925-Score:15.858767
 Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
 Titulo:factors affecting loads at hypersonic speeds .
 --------------------------------------------
-Linha:202-IDPergunta:314-IDDocumento:234-Score:15.506464
+Linha:202-IDPergunta:314-IDDocumento:979-Score:15.6291485
+Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
+Titulo:correlation of base pressure and wake structure of sharp and blunt-nose cones with reynolds number based on boundary layer momentum thickness .
+--------------------------------------------
+Linha:202-IDPergunta:314-IDDocumento:234-Score:15.582942
 Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
 Titulo:second order shock-expansion method applicable to bodies of revolution near zero lift .
 --------------------------------------------
-Linha:202-IDPergunta:314-IDDocumento:122-Score:14.821326
+Linha:202-IDPergunta:314-IDDocumento:1378-Score:15.334975
 Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
-Titulo:simplified approximate method for calculation of pressure around conical bodies of arbitrary shape in supersonic and hypersonic flow .
+Titulo:blunt-cone pressure distributions at hypersonic mach numbers .
 --------------------------------------------
-Linha:202-IDPergunta:314-IDDocumento:927-Score:14.6478815
+Linha:202-IDPergunta:314-IDDocumento:927-Score:14.915721
 Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
 Titulo:investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds .
 --------------------------------------------
-Linha:202-IDPergunta:314-IDDocumento:371-Score:14.629151
+Linha:202-IDPergunta:314-IDDocumento:122-Score:14.598038
 Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
-Titulo:note on tip-bluntness effects in supersonic and hypersonic regimes .
+Titulo:simplified approximate method for calculation of pressure around conical bodies of arbitrary shape in supersonic and hypersonic flow .
 --------------------------------------------
-Linha:202-IDPergunta:314-IDDocumento:56-Score:14.263388
-Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
-Titulo:analysis of applicability of hypersonic similarity law to study of flow about bodies of revolution at zero angle of attack .
+Linha:203-IDPergunta:315-IDDocumento:1285-Score:14.713063
+Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
+Titulo:experiments at hypersonic speeds on circular cones at incidence .
 --------------------------------------------
-Linha:202-IDPergunta:314-IDDocumento:411-Score:14.043614
-Pergunta:how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
-Titulo:daton shape and location of detached shock waves in cones and sphere .
---------------------------------------------
-Linha:203-IDPergunta:315-IDDocumento:122-Score:14.397061
+Linha:203-IDPergunta:315-IDDocumento:122-Score:14.13554
 Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
 Titulo:simplified approximate method for calculation of pressure around conical bodies of arbitrary shape in supersonic and hypersonic flow .
 --------------------------------------------
-Linha:203-IDPergunta:315-IDDocumento:927-Score:12.767498
-Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
-Titulo:investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds .
---------------------------------------------
-Linha:203-IDPergunta:315-IDDocumento:923-Score:12.636709
+Linha:203-IDPergunta:315-IDDocumento:923-Score:13.096342
 Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
 Titulo:methods for estimating lift interference of wing-body combinations at supersonic speeds .
 --------------------------------------------
-Linha:203-IDPergunta:315-IDDocumento:58-Score:12.243441
+Linha:203-IDPergunta:315-IDDocumento:927-Score:12.845266
+Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
+Titulo:investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds .
+--------------------------------------------
+Linha:203-IDPergunta:315-IDDocumento:1310-Score:12.205484
+Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
+Titulo:survey of inviscid hypersonic flow theory for geometrically slender shapes .
+--------------------------------------------
+Linha:203-IDPergunta:315-IDDocumento:58-Score:12.1226
 Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
 Titulo:pressure measurements on sharp and blunt 5 and 15 half-angle cones at mach number 3.86 and angles of attack to 100 .
 --------------------------------------------
-Linha:203-IDPergunta:315-IDDocumento:814-Score:11.574307
+Linha:203-IDPergunta:315-IDDocumento:1386-Score:11.76024
 Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
-Titulo:stability derivatives of cones at supersonic speeds .
+Titulo:analysis and calculation by integral methods of laminar compressible boundary layer with heat transfer and with and without pressure gradient .
 --------------------------------------------
-Linha:203-IDPergunta:315-IDDocumento:459-Score:11.522297
+Linha:203-IDPergunta:315-IDDocumento:459-Score:11.625902
 Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
 Titulo:on solution of laminar boundary layer equations .
 --------------------------------------------
-Linha:203-IDPergunta:315-IDDocumento:370-Score:11.34504
+Linha:203-IDPergunta:315-IDDocumento:370-Score:11.375136
 Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
 Titulo:theoretical pressure distribution on hemisphere-cylinder combination .
 --------------------------------------------
-Linha:203-IDPergunta:315-IDDocumento:225-Score:11.108397
+Linha:203-IDPergunta:315-IDDocumento:814-Score:11.341509
 Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
-Titulo:elliptic cones alone and with wings at supersonic speeds .
+Titulo:stability derivatives of cones at supersonic speeds .
 --------------------------------------------
-Linha:203-IDPergunta:315-IDDocumento:147-Score:11.0774145
-Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
-Titulo:supersonic flow past slender pointed wings with ?similar? cross sections at zero lift .
---------------------------------------------
-Linha:203-IDPergunta:315-IDDocumento:580-Score:11.021455
-Pergunta:are simple empirical methods of any use for estimating pressure distribution in cones .
-Titulo:new thermo-mechanical reciprocity relations with application to thermal stress analysis .
---------------------------------------------
-Linha:204-IDPergunta:316-IDDocumento:147-Score:14.554174
+Linha:204-IDPergunta:316-IDDocumento:147-Score:14.9392395
 Pergunta:do viscous effects seriously modify pressure distributions .
 Titulo:supersonic flow past slender pointed wings with ?similar? cross sections at zero lift .
 --------------------------------------------
-Linha:204-IDPergunta:316-IDDocumento:573-Score:9.812326
+Linha:204-IDPergunta:316-IDDocumento:573-Score:9.866602
 Pergunta:do viscous effects seriously modify pressure distributions .
 Titulo:viscous hypersonic similitude .
 --------------------------------------------
-Linha:204-IDPergunta:316-IDDocumento:371-Score:8.443905
+Linha:204-IDPergunta:316-IDDocumento:371-Score:8.587378
 Pergunta:do viscous effects seriously modify pressure distributions .
 Titulo:note on tip-bluntness effects in supersonic and hypersonic regimes .
 --------------------------------------------
-Linha:204-IDPergunta:316-IDDocumento:112-Score:7.855694
-Pergunta:do viscous effects seriously modify pressure distributions .
-Titulo:steady motion of conducting fluids in pipes under transverse magnetic fields .
---------------------------------------------
-Linha:204-IDPergunta:316-IDDocumento:937-Score:7.8020577
+Linha:204-IDPergunta:316-IDDocumento:937-Score:8.14711
 Pergunta:do viscous effects seriously modify pressure distributions .
 Titulo:on buckling of truncated conical shells in torsion .
 --------------------------------------------
-Linha:204-IDPergunta:316-IDDocumento:57-Score:7.507534
+Linha:204-IDPergunta:316-IDDocumento:112-Score:7.92943
+Pergunta:do viscous effects seriously modify pressure distributions .
+Titulo:steady motion of conducting fluids in pipes under transverse magnetic fields .
+--------------------------------------------
+Linha:204-IDPergunta:316-IDDocumento:1229-Score:7.9022775
+Pergunta:do viscous effects seriously modify pressure distributions .
+Titulo:effect of sweep angle on hypersonic flow over blunt wings .
+--------------------------------------------
+Linha:204-IDPergunta:316-IDDocumento:1236-Score:7.804135
+Pergunta:do viscous effects seriously modify pressure distributions .
+Titulo:stagnation point boundary layer in presence of applied magnetic field .
+--------------------------------------------
+Linha:204-IDPergunta:316-IDDocumento:1184-Score:7.6589756
+Pergunta:do viscous effects seriously modify pressure distributions .
+Titulo:three dimensional effects in viscous wakes .
+--------------------------------------------
+Linha:204-IDPergunta:316-IDDocumento:1080-Score:7.6188145
+Pergunta:do viscous effects seriously modify pressure distributions .
+Titulo:viscous flow round sphere at low reynolds numbers . /l40/ .
+--------------------------------------------
+Linha:204-IDPergunta:316-IDDocumento:57-Score:7.611392
 Pergunta:do viscous effects seriously modify pressure distributions .
 Titulo:applicability of hypersonic similarity rule to pressure distributions which include effects of rotation for bodies of revolution at zero angle of attack .
 --------------------------------------------
-Linha:204-IDPergunta:316-IDDocumento:363-Score:7.3171434
-Pergunta:do viscous effects seriously modify pressure distributions .
-Titulo:alternative formulation of problem of flutter in real fluids .
+Linha:205-IDPergunta:317-IDDocumento:1323-Score:16.09575
+Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
+Titulo:investigation of use of auxiliary slot to re-establish laminar flow on low drag aerofoils .
 --------------------------------------------
-Linha:204-IDPergunta:316-IDDocumento:971-Score:7.27366
-Pergunta:do viscous effects seriously modify pressure distributions .
-Titulo:surface pressure distributions with sonic jet normal to adjacent flat surfaces at mach 2.92 to 6.4 .
---------------------------------------------
-Linha:204-IDPergunta:316-IDDocumento:802-Score:7.241866
-Pergunta:do viscous effects seriously modify pressure distributions .
-Titulo:behaviour of supersonic flow past body of revolution far from axis .
---------------------------------------------
-Linha:204-IDPergunta:316-IDDocumento:679-Score:7.136454
-Pergunta:do viscous effects seriously modify pressure distributions .
-Titulo:low speed tests on 45 sweptback wings .
---------------------------------------------
-Linha:205-IDPergunta:317-IDDocumento:131-Score:14.424158
+Linha:205-IDPergunta:317-IDDocumento:131-Score:14.427909
 Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
 Titulo:two-dimensional jet mixing of compressible fluid .
 --------------------------------------------
-Linha:205-IDPergunta:317-IDDocumento:912-Score:12.822157
+Linha:205-IDPergunta:317-IDDocumento:912-Score:12.823093
 Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
 Titulo:axisymmetric free-convection temperature field along vertical thin cylinder .
 --------------------------------------------
-Linha:205-IDPergunta:317-IDDocumento:72-Score:11.995094
+Linha:205-IDPergunta:317-IDDocumento:1287-Score:12.539031
+Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
+Titulo:progress report on experiment on effect of surface flexibility on stability of laminar flow .
+--------------------------------------------
+Linha:205-IDPergunta:317-IDDocumento:72-Score:12.15177
 Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
 Titulo:boundary layer behind shock or thin expansion wave moving into stationary fluid .
 --------------------------------------------
-Linha:205-IDPergunta:317-IDDocumento:352-Score:11.419927
+Linha:205-IDPergunta:317-IDDocumento:1182-Score:11.753922
+Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
+Titulo:approximate solution for laminar boundary layer flow .
+--------------------------------------------
+Linha:205-IDPergunta:317-IDDocumento:352-Score:11.445947
 Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
 Titulo:on heat transfer over sweat-cooled surface in laminar compressible flow with pressure gradient .
 --------------------------------------------
-Linha:205-IDPergunta:317-IDDocumento:133-Score:11.160542
+Linha:205-IDPergunta:317-IDDocumento:133-Score:11.299139
 Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
 Titulo:some effects of surface curvature on laminar boundary layer flow .
 --------------------------------------------
-Linha:205-IDPergunta:317-IDDocumento:933-Score:11.080801
+Linha:205-IDPergunta:317-IDDocumento:1192-Score:11.245227
+Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
+Titulo:integral method for calculation of supersonic laminar boundary layer with heat transfer on yawed cone .
+--------------------------------------------
+Linha:205-IDPergunta:317-IDDocumento:933-Score:11.208023
 Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
 Titulo:characteristics of roughness from insects as observed for two-dimensional, incompressible flow past airfoils .
 --------------------------------------------
-Linha:205-IDPergunta:317-IDDocumento:334-Score:10.83362
-Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
-Titulo:influence of leading-edge shock wave on laminar boundary layer at hypersonic speeds .
---------------------------------------------
-Linha:205-IDPergunta:317-IDDocumento:73-Score:10.435787
-Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
-Titulo:investigation of stability of laminar boundary layer in compressible fluid .
---------------------------------------------
-Linha:205-IDPergunta:317-IDDocumento:135-Score:10.340832
-Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
-Titulo:calculation of wall shearing stress from heat-transfer measurements in compressible flows .
---------------------------------------------
-Linha:205-IDPergunta:317-IDDocumento:337-Score:10.154464
-Pergunta:has anyone investigated theoretically whether surface flexibility cstabilize laminar boundary layer .
-Titulo:boundary layer transition with gas injection .
---------------------------------------------
-Linha:206-IDPergunta:321-IDDocumento:312-Score:18.062754
+Linha:206-IDPergunta:321-IDDocumento:1290-Score:40.882515
 Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
-Titulo:chordwise pressure distributions over several nac16 series airfoils at transonic mach numbers up to 1.25 .
+Titulo:measured and calculated subsonic and transonic flutter characteristics of 45 sweptback wing planform in air and in freon-12 in langley transonic dynamics tunnel .
 --------------------------------------------
-Linha:206-IDPergunta:321-IDDocumento:638-Score:17.881588
+Linha:206-IDPergunta:321-IDDocumento:1338-Score:21.408194
 Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
-Titulo:longitudinal aerodynamic characteristics at low subsonic speeds of highly swept wing utilizing nose deflection for control .
+Titulo:investigation to determine effects of center of gravity location on transonic flutter characteristics of 45degree sweptback wing .
 --------------------------------------------
-Linha:206-IDPergunta:321-IDDocumento:876-Score:17.807327
+Linha:206-IDPergunta:321-IDDocumento:1341-Score:20.057352
+Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
+Titulo:investigation of wing flutter at transonic speeds for six systematically  varied wing plforms .
+--------------------------------------------
+Linha:206-IDPergunta:321-IDDocumento:876-Score:18.496359
 Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
 Titulo:on flutter testing in high speed wind tunnels .
 --------------------------------------------
-Linha:206-IDPergunta:321-IDDocumento:315-Score:17.570406
+Linha:206-IDPergunta:321-IDDocumento:312-Score:18.223427
+Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
+Titulo:chordwise pressure distributions over several nac16 series airfoils at transonic mach numbers up to 1.25 .
+--------------------------------------------
+Linha:206-IDPergunta:321-IDDocumento:638-Score:18.088474
+Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
+Titulo:longitudinal aerodynamic characteristics at low subsonic speeds of highly swept wing utilizing nose deflection for control .
+--------------------------------------------
+Linha:206-IDPergunta:321-IDDocumento:315-Score:18.067314
 Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
 Titulo:scale effects at high subsonic and transonic speeds and methods for fixing transition in model experiments .
 --------------------------------------------
-Linha:206-IDPergunta:321-IDDocumento:252-Score:16.96475
+Linha:206-IDPergunta:321-IDDocumento:252-Score:17.476505
 Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
 Titulo:investigation of interference effects on similar models of different size in various transonic tunnels in u.k. .
 --------------------------------------------
-Linha:206-IDPergunta:321-IDDocumento:38-Score:16.282093
+Linha:206-IDPergunta:321-IDDocumento:38-Score:16.865791
 Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
 Titulo:on prediction of mixed subsonic/supersonic pressure distributions .
 --------------------------------------------
-Linha:206-IDPergunta:321-IDDocumento:567-Score:16.251587
-Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
-Titulo:aerodynamic characteristics of circular cylinder at mach number of 6. 86 and angles of attack up to 90 .
---------------------------------------------
-Linha:206-IDPergunta:321-IDDocumento:879-Score:15.587727
+Linha:206-IDPergunta:321-IDDocumento:879-Score:16.524015
 Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
 Titulo:flutter model testing at transonic speeds .
 --------------------------------------------
-Linha:206-IDPergunta:321-IDDocumento:468-Score:14.878796
-Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
-Titulo:refinement of linearised transonic flow theory .
---------------------------------------------
-Linha:206-IDPergunta:321-IDDocumento:197-Score:14.746513
-Pergunta:how do subsonic and transonic flutter datmeasured in new langley transonic dynamics tunnel compare with similar datobtained in other facilities .
-Titulo:pressure distributions on three bodies of revolution to determine effect of reynolds number up to and including transonic speed range .
---------------------------------------------
-Linha:207-IDPergunta:323-IDDocumento:859-Score:18.448692
+Linha:207-IDPergunta:323-IDDocumento:859-Score:18.820396
 Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
 Titulo:flutter of aerodynamically heated aluminium-alloy and stainless steel panels with length-width ratio of 10 at mach 3. 0.
 --------------------------------------------
-Linha:207-IDPergunta:323-IDDocumento:78-Score:15.3012
+Linha:207-IDPergunta:323-IDDocumento:1290-Score:15.960003
+Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
+Titulo:measured and calculated subsonic and transonic flutter characteristics of 45 sweptback wing planform in air and in freon-12 in langley transonic dynamics tunnel .
+--------------------------------------------
+Linha:207-IDPergunta:323-IDDocumento:78-Score:15.387634
 Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
 Titulo:analytical treatment of aircraft propeller precession instability .
 --------------------------------------------
-Linha:207-IDPergunta:323-IDDocumento:948-Score:14.685885
+Linha:207-IDPergunta:323-IDDocumento:948-Score:15.027911
 Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
 Titulo:panel flutter tests on full scale x-15 lower vertical stabilizer at mach number of 3. 0.
 --------------------------------------------
-Linha:207-IDPergunta:323-IDDocumento:747-Score:13.668516
+Linha:207-IDPergunta:323-IDDocumento:747-Score:14.130615
 Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
 Titulo:bodt freedom flutter of ground launched rocket models at supersonic and high subsonic speeds .
 --------------------------------------------
-Linha:207-IDPergunta:323-IDDocumento:39-Score:13.149432
+Linha:207-IDPergunta:323-IDDocumento:39-Score:13.335791
 Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
 Titulo:on flow of sonic stream past airfoil surface .
 --------------------------------------------
-Linha:207-IDPergunta:323-IDDocumento:766-Score:12.436471
+Linha:207-IDPergunta:323-IDDocumento:1341-Score:12.840383
+Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
+Titulo:investigation of wing flutter at transonic speeds for six systematically  varied wing plforms .
+--------------------------------------------
+Linha:207-IDPergunta:323-IDDocumento:766-Score:12.816579
 Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
 Titulo:experimental investigation at mach number of 3. 0 of effects of thermal stress and buckling on flutter characteristics of flat single-bay panels of length-width ratio 0. 96 .
 --------------------------------------------
-Linha:207-IDPergunta:323-IDDocumento:391-Score:12.364685
+Linha:207-IDPergunta:323-IDDocumento:391-Score:12.769988
 Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
 Titulo:flutter of rectangular simply supported panels at high supersonic speeds .
 --------------------------------------------
-Linha:207-IDPergunta:323-IDDocumento:593-Score:11.914288
+Linha:207-IDPergunta:323-IDDocumento:593-Score:12.2704
 Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
 Titulo:theoretical considerations of flutter at high mach number .
 --------------------------------------------
-Linha:207-IDPergunta:323-IDDocumento:442-Score:11.80834
-Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
-Titulo:some effects of variations in several parameters including fluid density on flutter speed of light uniform cantilever wings .
+Linha:208-IDPergunta:327-IDDocumento:1291-Score:55.292446
+Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
+Titulo:atmosphere entries with spacecraft lift-drag ratios modulated to limit decelerations .
 --------------------------------------------
-Linha:207-IDPergunta:323-IDDocumento:749-Score:11.618943
-Pergunta:how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
-Titulo:aerodynamic effects of aspect ratio and sweepback on wing flutter .
---------------------------------------------
-Linha:208-IDPergunta:327-IDDocumento:163-Score:37.243095
+Linha:208-IDPergunta:327-IDDocumento:163-Score:36.333416
 Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
 Titulo:analysis of corridor and guidance requirements for supercircular entry planetary atmospheres .
 --------------------------------------------
-Linha:208-IDPergunta:327-IDDocumento:566-Score:21.986727
+Linha:208-IDPergunta:327-IDDocumento:1344-Score:29.128891
+Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
+Titulo:atmospheric entries with vehicle lift-drag ratio modulated to limit deceleration and rate of deceleration vehicles with maximum lift-drag ratio of 0. 5.
+--------------------------------------------
+Linha:208-IDPergunta:327-IDDocumento:1345-Score:25.340353
+Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
+Titulo:use of aerodynamic lift during entry into earth's atmosphere .
+--------------------------------------------
+Linha:208-IDPergunta:327-IDDocumento:1217-Score:22.817331
+Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
+Titulo:application of inequality constraints to variational problems of lifting re-entry .
+--------------------------------------------
+Linha:208-IDPergunta:327-IDDocumento:1348-Score:22.474646
+Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
+Titulo:radiative heat transfer during atmosphere entry at parabolic velocity .
+--------------------------------------------
+Linha:208-IDPergunta:327-IDDocumento:566-Score:21.89391
 Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
 Titulo:investigation of local heat transfer and pressure drag characteristics of yawed circular cylinder at supersonic speeds .
 --------------------------------------------
-Linha:208-IDPergunta:327-IDDocumento:164-Score:20.723675
+Linha:208-IDPergunta:327-IDDocumento:164-Score:20.175335
 Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
 Titulo:approximate analytical method for studying entry into planetary atmospheres .
 --------------------------------------------
-Linha:208-IDPergunta:327-IDDocumento:624-Score:18.771639
+Linha:208-IDPergunta:327-IDDocumento:1346-Score:19.643003
+Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
+Titulo:modulated entry .
+--------------------------------------------
+Linha:208-IDPergunta:327-IDDocumento:624-Score:18.932549
 Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
 Titulo:cruise performance of channel-flow ground effect machines .
 --------------------------------------------
-Linha:208-IDPergunta:327-IDDocumento:982-Score:17.587973
-Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
-Titulo:temperature history in thick skin subjected to laminar heating during entry into atmosphere .
---------------------------------------------
-Linha:208-IDPergunta:327-IDDocumento:275-Score:16.955677
-Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
-Titulo:effect of lift on entry corridor depth and guidance requirements for return lunar flight .
---------------------------------------------
-Linha:208-IDPergunta:327-IDDocumento:357-Score:16.581387
-Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
-Titulo:optimum nose shapes for missiles in super-aerodynamic region .
---------------------------------------------
-Linha:208-IDPergunta:327-IDDocumento:274-Score:15.385565
-Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
-Titulo:analysis of quartz and teflon shields for particular re-entry mission .
---------------------------------------------
-Linha:208-IDPergunta:327-IDDocumento:77-Score:14.178519
-Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
-Titulo:comparative analysis of performance of long range hypervelocity vehicles .
---------------------------------------------
-Linha:208-IDPergunta:327-IDDocumento:719-Score:13.706232
-Pergunta:what is effect of shape of drag polar of lifting spacecraft on amount of reduction in maximum deceleration obtainable by continuously varying aerodynamic coefficients during re-entry .
-Titulo:tumbling bodies entering atmosphere .
---------------------------------------------
-Linha:209-IDPergunta:331-IDDocumento:959-Score:19.550087
+Linha:209-IDPergunta:331-IDDocumento:959-Score:20.204317
 Pergunta:what are physical significance and characteristics of separated laminar and turbulent boundary layer flows .
 Titulo:heat transfer in separated flows .
 --------------------------------------------
-Linha:209-IDPergunta:331-IDDocumento:187-Score:19.110008
+Linha:209-IDPergunta:331-IDDocumento:187-Score:19.688025
 Pergunta:what are physical significance and characteristics of separated laminar and turbulent boundary layer flows .
 Titulo:investigation of separated flows in supersonic and subsonic streams with emphasis on effect of transition .
 --------------------------------------------
-Linha:209-IDPergunta:331-IDDocumento:455-Score:17.22823
+Linha:209-IDPergunta:331-IDDocumento:455-Score:17.816895
 Pergunta:what are physical significance and characteristics of separated laminar and turbulent boundary layer flows .
 Titulo:modified cross-lees mixing theory for supersonic separated and reattaching flows .
 --------------------------------------------
-Linha:209-IDPergunta:331-IDDocumento:240-Score:17.140106
+Linha:209-IDPergunta:331-IDDocumento:240-Score:17.718023
 Pergunta:what are physical significance and characteristics of separated laminar and turbulent boundary layer flows .
 Titulo:theoretical analysis of heat transfer in regions of separated flow .
 --------------------------------------------
-Linha:209-IDPergunta:331-IDDocumento:651-Score:16.858315
+Linha:209-IDPergunta:331-IDDocumento:651-Score:17.530083
 Pergunta:what are physical significance and characteristics of separated laminar and turbulent boundary layer flows .
 Titulo:heat transfer to separated and reattached subsonic turbulen flows obtained downstream of surface step .
 --------------------------------------------
-Linha:209-IDPergunta:331-IDDocumento:798-Score:15.634933
+Linha:209-IDPergunta:331-IDDocumento:798-Score:16.052662
 Pergunta:what are physical significance and characteristics of separated laminar and turbulent boundary layer flows .
 Titulo:interaction between shock waves and boundary layers, with note on effects of interaction of performance of supersonic intakes .
 --------------------------------------------
-Linha:209-IDPergunta:331-IDDocumento:89-Score:15.451524
+Linha:209-IDPergunta:331-IDDocumento:89-Score:15.979464
 Pergunta:what are physical significance and characteristics of separated laminar and turbulent boundary layer flows .
 Titulo:investigation of separated flows, part i: pressure field .
 --------------------------------------------
-Linha:209-IDPergunta:331-IDDocumento:45-Score:14.956913
+Linha:209-IDPergunta:331-IDDocumento:45-Score:15.5606165
 Pergunta:what are physical significance and characteristics of separated laminar and turbulent boundary layer flows .
 Titulo:investigation of separated flows, part ii: flow in cavity and heat transfer .
 --------------------------------------------
-Linha:209-IDPergunta:331-IDDocumento:487-Score:14.684253
+Linha:209-IDPergunta:331-IDDocumento:487-Score:15.164163
 Pergunta:what are physical significance and characteristics of separated laminar and turbulent boundary layer flows .
 Titulo:theory for supersonic two-dimensional, laminar, base-type flows using crocco-lees mixing concepts .
 --------------------------------------------
-Linha:209-IDPergunta:331-IDDocumento:996-Score:14.541399
+Linha:209-IDPergunta:331-IDDocumento:996-Score:14.977865
 Pergunta:what are physical significance and characteristics of separated laminar and turbulent boundary layer flows .
 Titulo:extension of boundary layer separation criterito m=6 .5 utilizing flat plates with forward-facing steps .
 --------------------------------------------
-Linha:210-IDPergunta:332-IDDocumento:887-Score:25.090767
+Linha:210-IDPergunta:332-IDDocumento:1172-Score:37.580826
+Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
+Titulo:elastic stability of circular cylindrical shells stabilized by soft elastic core .
+--------------------------------------------
+Linha:210-IDPergunta:332-IDDocumento:1145-Score:28.819735
+Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
+Titulo:buckling of core-stabilized cylinders under axisymmetric external loads .
+--------------------------------------------
+Linha:210-IDPergunta:332-IDDocumento:1171-Score:24.378595
+Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
+Titulo:stability under axial compression and lateral pressure of circular cylindrical shells with soft elastic core .
+--------------------------------------------
+Linha:210-IDPergunta:332-IDDocumento:1068-Score:24.22501
+Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
+Titulo:instability analysis of cylindrical shells under hydrostatic pressure .
+--------------------------------------------
+Linha:210-IDPergunta:332-IDDocumento:887-Score:23.652323
 Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
 Titulo:buckling due to thermal stress of cylindrical shells subjected to axial temperature distributions .
 --------------------------------------------
-Linha:210-IDPergunta:332-IDDocumento:739-Score:24.615011
+Linha:210-IDPergunta:332-IDDocumento:739-Score:23.02779
 Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
 Titulo:buckling of thin cylindrical shells under axial compression .
 --------------------------------------------
-Linha:210-IDPergunta:332-IDDocumento:743-Score:23.185408
+Linha:210-IDPergunta:332-IDDocumento:1125-Score:22.986593
+Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
+Titulo:collapse by instability of thin cylindrical shells under external pressure .
+--------------------------------------------
+Linha:210-IDPergunta:332-IDDocumento:1126-Score:22.505236
+Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
+Titulo:engineer's conceptual approach to buckling of cylindrical shell (axial loading) .
+--------------------------------------------
+Linha:210-IDPergunta:332-IDDocumento:743-Score:21.662258
 Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
 Titulo:new developments in nonlinear theories of buckling of thin cylindrical shells .
 --------------------------------------------
-Linha:210-IDPergunta:332-IDDocumento:897-Score:21.399572
+Linha:210-IDPergunta:332-IDDocumento:897-Score:20.344204
 Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
 Titulo:some results on buckling and postbuckling of cylindrical shells .
 --------------------------------------------
-Linha:210-IDPergunta:332-IDDocumento:957-Score:20.888647
-Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
-Titulo:axisymmetric snap buckling of conical shells .
---------------------------------------------
-Linha:210-IDPergunta:332-IDDocumento:885-Score:20.577263
-Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
-Titulo:buckling of thin cylindrical shells under hoop stresses varying in axial direction .
---------------------------------------------
-Linha:210-IDPergunta:332-IDDocumento:760-Score:20.194498
-Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
-Titulo:inelastic buckling of initially imperfect cylindrical shells subject to axial compression .
---------------------------------------------
-Linha:210-IDPergunta:332-IDDocumento:938-Score:20.090052
-Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
-Titulo:calculations for stability of thin conical frustums subjected to external uniform hydrostatic pressure and axial loads .
---------------------------------------------
-Linha:210-IDPergunta:332-IDDocumento:889-Score:19.800346
-Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
-Titulo:simplified method of elastic stability analysis for thin cylindrical shells .
---------------------------------------------
-Linha:210-IDPergunta:332-IDDocumento:831-Score:19.329672
-Pergunta:has anyone analytically investigated stabilizing influence of soft elastic cores on buckling strength of cylindrical shells subjected to non-uniform external pressure .
-Titulo:buckling of shallow shells under external pressure .
---------------------------------------------
-Linha:211-IDPergunta:333-IDDocumento:739-Score:27.906898
+Linha:211-IDPergunta:333-IDDocumento:739-Score:26.854296
 Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
 Titulo:buckling of thin cylindrical shells under axial compression .
 --------------------------------------------
-Linha:211-IDPergunta:333-IDDocumento:885-Score:20.174484
+Linha:211-IDPergunta:333-IDDocumento:1068-Score:22.281185
+Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
+Titulo:instability analysis of cylindrical shells under hydrostatic pressure .
+--------------------------------------------
+Linha:211-IDPergunta:333-IDDocumento:885-Score:18.812151
 Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
 Titulo:buckling of thin cylindrical shells under hoop stresses varying in axial direction .
 --------------------------------------------
-Linha:211-IDPergunta:333-IDDocumento:897-Score:18.955244
+Linha:211-IDPergunta:333-IDDocumento:1117-Score:18.589657
+Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
+Titulo:stability of orthotropic cylindrical shells under combined loading .
+--------------------------------------------
+Linha:211-IDPergunta:333-IDDocumento:1070-Score:18.190964
+Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
+Titulo:buckling of orthotropic and stiffened conical shells .
+--------------------------------------------
+Linha:211-IDPergunta:333-IDDocumento:897-Score:17.67655
 Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
 Titulo:some results on buckling and postbuckling of cylindrical shells .
 --------------------------------------------
-Linha:211-IDPergunta:333-IDDocumento:887-Score:18.73261
+Linha:211-IDPergunta:333-IDDocumento:1051-Score:17.593494
 Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
-Titulo:buckling due to thermal stress of cylindrical shells subjected to axial temperature distributions .
+Titulo:stability of thin-walled unstiffened circular cylinders under axial compression including effects of internal pressure .
 --------------------------------------------
-Linha:211-IDPergunta:333-IDDocumento:741-Score:18.297007
-Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
-Titulo:behaviour of thin cylindrical shells after buckling under axial compression .
---------------------------------------------
-Linha:211-IDPergunta:333-IDDocumento:953-Score:18.207584
+Linha:211-IDPergunta:333-IDDocumento:953-Score:17.349463
 Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
 Titulo:vibrations of infinitely long cylindrical shells under initial stress .
 --------------------------------------------
-Linha:211-IDPergunta:333-IDDocumento:831-Score:18.008806
+Linha:211-IDPergunta:333-IDDocumento:887-Score:17.324448
 Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
-Titulo:buckling of shallow shells under external pressure .
+Titulo:buckling due to thermal stress of cylindrical shells subjected to axial temperature distributions .
 --------------------------------------------
-Linha:211-IDPergunta:333-IDDocumento:763-Score:17.395327
+Linha:211-IDPergunta:333-IDDocumento:1171-Score:17.250067
 Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
-Titulo:effects of internal pressure on buckling of circular-cylindrical shells under bending.
+Titulo:stability under axial compression and lateral pressure of circular cylindrical shells with soft elastic core .
 --------------------------------------------
-Linha:211-IDPergunta:333-IDDocumento:744-Score:17.005352
-Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
-Titulo:lower buckling load in non-linear buckling theory of thin shells .
+Linha:212-IDPergunta:335-IDDocumento:1177-Score:33.936283
+Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
+Titulo:effects of rapid heating on strength of airframe components .
 --------------------------------------------
-Linha:211-IDPergunta:333-IDDocumento:889-Score:16.660095
-Pergunta:what papers are available on buckling of empty cylindrical shells under non-uniform pressure .
-Titulo:simplified method of elastic stability analysis for thin cylindrical shells .
+Linha:212-IDPergunta:335-IDDocumento:1178-Score:33.281506
+Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
+Titulo:buckling of ring-stiffened cylinders under pure bending moment and nonuniform temperature distribution .
 --------------------------------------------
-Linha:212-IDPergunta:335-IDDocumento:838-Score:32.102806
+Linha:212-IDPergunta:335-IDDocumento:888-Score:29.079077
+Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
+Titulo:combinations of temperature and axial compression required for buckling of ring-stiffened cylinder .
+--------------------------------------------
+Linha:212-IDPergunta:335-IDDocumento:838-Score:28.993294
 Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
 Titulo:bending and compression tests of pressurised ring-stiffened cylinders .
 --------------------------------------------
-Linha:212-IDPergunta:335-IDDocumento:888-Score:32.06448
+Linha:212-IDPergunta:335-IDDocumento:1176-Score:23.429514
 Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
-Titulo:combinations of temperature and axial compression required for buckling of ring-stiffened cylinder .
+Titulo:bending tests of ring-stiffened circular cylinders .
 --------------------------------------------
-Linha:212-IDPergunta:335-IDDocumento:885-Score:20.341986
+Linha:212-IDPergunta:335-IDDocumento:885-Score:19.729727
 Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
 Titulo:buckling of thin cylindrical shells under hoop stresses varying in axial direction .
 --------------------------------------------
-Linha:212-IDPergunta:335-IDDocumento:769-Score:17.937088
+Linha:212-IDPergunta:335-IDDocumento:1070-Score:18.677498
 Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
-Titulo:local circumferential buckling of thin circular cylindrical shells .
+Titulo:buckling of orthotropic and stiffened conical shells .
 --------------------------------------------
-Linha:212-IDPergunta:335-IDDocumento:890-Score:16.260975
+Linha:212-IDPergunta:335-IDDocumento:1146-Score:18.58409
 Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
-Titulo:comments on 'thermal buckling of clamped cylindrical shells' .
+Titulo:thermal buckling of cylinders .
 --------------------------------------------
-Linha:212-IDPergunta:335-IDDocumento:864-Score:15.593733
+Linha:212-IDPergunta:335-IDDocumento:1132-Score:18.241924
 Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
-Titulo:status of flutter of flat and curved panels .
+Titulo:general instability of ring stiffened cylindrical shells subject to external hydrostatic pressure - comparison of theory and experiment .
 --------------------------------------------
-Linha:212-IDPergunta:335-IDDocumento:886-Score:15.325851
+Linha:212-IDPergunta:335-IDDocumento:1121-Score:17.75726
 Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
-Titulo:thermal buckling of clamped cylindrical shells .
+Titulo:compressive and torsional buckling of thin-wall cylinders in yield region .
 --------------------------------------------
-Linha:212-IDPergunta:335-IDDocumento:870-Score:15.324316
-Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
-Titulo:effect of rheological behaviour on thermal stresses .
---------------------------------------------
-Linha:212-IDPergunta:335-IDDocumento:823-Score:15.192979
-Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
-Titulo:plastic torsional buckling strength of cylinders including effects of imperfections .
---------------------------------------------
-Linha:212-IDPergunta:335-IDDocumento:580-Score:14.689161
-Pergunta:what effect do thermal stresses have on compressive buckling strength of ring-stiffened cylinders .
-Titulo:new thermo-mechanical reciprocity relations with application to thermal stress analysis .
---------------------------------------------
-Linha:213-IDPergunta:336-IDDocumento:888-Score:23.67707
+Linha:213-IDPergunta:336-IDDocumento:888-Score:22.296206
 Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
 Titulo:combinations of temperature and axial compression required for buckling of ring-stiffened cylinder .
 --------------------------------------------
-Linha:213-IDPergunta:336-IDDocumento:741-Score:22.743618
+Linha:213-IDPergunta:336-IDDocumento:1173-Score:21.605211
+Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
+Titulo:buckling of cylindrical shells under longitudinally varying loads .
+--------------------------------------------
+Linha:213-IDPergunta:336-IDDocumento:741-Score:21.410948
 Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
 Titulo:behaviour of thin cylindrical shells after buckling under axial compression .
 --------------------------------------------
-Linha:213-IDPergunta:336-IDDocumento:885-Score:22.294584
+Linha:213-IDPergunta:336-IDDocumento:885-Score:21.319073
 Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
 Titulo:buckling of thin cylindrical shells under hoop stresses varying in axial direction .
 --------------------------------------------
-Linha:213-IDPergunta:336-IDDocumento:769-Score:22.28936
+Linha:213-IDPergunta:336-IDDocumento:769-Score:21.175947
 Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
 Titulo:local circumferential buckling of thin circular cylindrical shells .
 --------------------------------------------
-Linha:213-IDPergunta:336-IDDocumento:887-Score:21.689108
+Linha:213-IDPergunta:336-IDDocumento:887-Score:20.534534
 Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
 Titulo:buckling due to thermal stress of cylindrical shells subjected to axial temperature distributions .
 --------------------------------------------
-Linha:213-IDPergunta:336-IDDocumento:642-Score:18.194641
+Linha:213-IDPergunta:336-IDDocumento:642-Score:17.146008
 Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
 Titulo:buckling strength of uniform circular cylinder loaded in axial compression .
 --------------------------------------------
-Linha:213-IDPergunta:336-IDDocumento:890-Score:16.31777
+Linha:213-IDPergunta:336-IDDocumento:1038-Score:16.02604
+Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
+Titulo:on transverse vibrations of thin, shallow elastic shells .
+--------------------------------------------
+Linha:213-IDPergunta:336-IDDocumento:890-Score:15.359735
 Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
 Titulo:comments on 'thermal buckling of clamped cylindrical shells' .
 --------------------------------------------
-Linha:213-IDPergunta:336-IDDocumento:891-Score:15.533336
+Linha:213-IDPergunta:336-IDDocumento:1178-Score:15.35003
 Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
-Titulo:buckling of finite length cylindrical shell under circumferential band of pressure .
+Titulo:buckling of ring-stiffened cylinders under pure bending moment and nonuniform temperature distribution .
 --------------------------------------------
-Linha:213-IDPergunta:336-IDDocumento:744-Score:14.832855
-Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
-Titulo:lower buckling load in non-linear buckling theory of thin shells .
+Linha:214-IDPergunta:338-IDDocumento:1294-Score:28.700266
+Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
+Titulo:non-linear shallow shell analysis by matrix force method .
 --------------------------------------------
-Linha:213-IDPergunta:336-IDDocumento:765-Score:14.534243
-Pergunta:what is effect on cylinder buckling of circumferential stress system that varies in axial direction .
-Titulo:clamped short oval cylindrical shells under hydrostatic pressure .
+Linha:214-IDPergunta:338-IDDocumento:1362-Score:20.775791
+Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
+Titulo:non-linear analysis of heated, cambered wings by matrix force method .
 --------------------------------------------
-Linha:214-IDPergunta:338-IDDocumento:828-Score:17.491589
+Linha:214-IDPergunta:338-IDDocumento:828-Score:16.217062
 Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
 Titulo:stresses and small displacements of shallow spherical shells .
 --------------------------------------------
-Linha:214-IDPergunta:338-IDDocumento:756-Score:16.289906
+Linha:214-IDPergunta:338-IDDocumento:756-Score:15.8444
 Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
 Titulo:further comments on inversion of large structural matrices .
 --------------------------------------------
-Linha:214-IDPergunta:338-IDDocumento:848-Score:15.187499
+Linha:214-IDPergunta:338-IDDocumento:848-Score:14.318446
 Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
 Titulo:effect of internal compressible fluid column on breathing vibrations of thin pressurised cylindrical shell .
 --------------------------------------------
-Linha:214-IDPergunta:338-IDDocumento:47-Score:14.131298
+Linha:214-IDPergunta:338-IDDocumento:1044-Score:13.951075
 Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
-Titulo:analysis of low-aspect-ratio aircraft structures .
+Titulo:on theory of thin elastic shells .
 --------------------------------------------
-Linha:214-IDPergunta:338-IDDocumento:92-Score:14.097227
+Linha:214-IDPergunta:338-IDDocumento:1042-Score:13.845722
+Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
+Titulo:on transverse vibrations of thin, shallow elastic shells .
+--------------------------------------------
+Linha:214-IDPergunta:338-IDDocumento:92-Score:13.749801
 Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
 Titulo:analysis of redundant structures by use of high-speed digital computers .
 --------------------------------------------
-Linha:214-IDPergunta:338-IDDocumento:930-Score:14.092297
+Linha:214-IDPergunta:338-IDDocumento:47-Score:13.704609
+Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
+Titulo:analysis of low-aspect-ratio aircraft structures .
+--------------------------------------------
+Linha:214-IDPergunta:338-IDDocumento:930-Score:13.257244
 Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
 Titulo:general theory of large deflections of thin shells with special applications to conical shells .
 --------------------------------------------
-Linha:214-IDPergunta:338-IDDocumento:831-Score:13.061384
-Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
-Titulo:buckling of shallow shells under external pressure .
---------------------------------------------
-Linha:214-IDPergunta:338-IDDocumento:739-Score:12.667672
-Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
-Titulo:buckling of thin cylindrical shells under axial compression .
---------------------------------------------
-Linha:214-IDPergunta:338-IDDocumento:764-Score:12.145581
-Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
-Titulo:breathing vibrations of circular shell with internal liquid .
---------------------------------------------
-Linha:214-IDPergunta:338-IDDocumento:15-Score:11.333295
-Pergunta:cnon-linear shallow shell analysis be reduced to engineering technique by use of matrix .
-Titulo:on two-dimensional panel flutter .
---------------------------------------------
-Linha:215-IDPergunta:339-IDDocumento:535-Score:28.559217
+Linha:215-IDPergunta:339-IDDocumento:535-Score:28.91158
 Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
 Titulo:shroud design for simulating hypersonic flow over nose of hemisphere .
 --------------------------------------------
-Linha:215-IDPergunta:339-IDDocumento:574-Score:18.9334
+Linha:215-IDPergunta:339-IDDocumento:1253-Score:19.173283
+Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
+Titulo:hypersonic viscous flow near stagnation point in presence of magnetic field .
+--------------------------------------------
+Linha:215-IDPergunta:339-IDDocumento:574-Score:19.043283
 Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
 Titulo:inviscid flow with nonequilibrium molecular dissociation for pressure distributions encountered in hypersonic flight .
 --------------------------------------------
-Linha:215-IDPergunta:339-IDDocumento:25-Score:18.041496
+Linha:215-IDPergunta:339-IDDocumento:25-Score:18.358427
 Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
 Titulo:inviscid hypersonic flow over blunt-nosed slender bodies .
 --------------------------------------------
-Linha:215-IDPergunta:339-IDDocumento:666-Score:17.856764
+Linha:215-IDPergunta:339-IDDocumento:666-Score:18.135742
 Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
 Titulo:blunt body heat transfer at hypersonic speed and low reynolds numbers .
 --------------------------------------------
-Linha:215-IDPergunta:339-IDDocumento:625-Score:16.059654
+Linha:215-IDPergunta:339-IDDocumento:1198-Score:17.626892
+Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
+Titulo:blunt-leading-edge problem in hypersonic flow .
+--------------------------------------------
+Linha:215-IDPergunta:339-IDDocumento:1205-Score:17.420547
+Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
+Titulo:effects of cooling on boundary layer transition on hemi- sphere in simulated hypersonic flow .
+--------------------------------------------
+Linha:215-IDPergunta:339-IDDocumento:1391-Score:16.73929
+Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
+Titulo:shock wave and flow field development in hypersonic re-entry .
+--------------------------------------------
+Linha:215-IDPergunta:339-IDDocumento:625-Score:16.266897
 Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
 Titulo:viscous and inviscid nonequilibrium gas flows .
 --------------------------------------------
-Linha:215-IDPergunta:339-IDDocumento:317-Score:15.644074
+Linha:215-IDPergunta:339-IDDocumento:1238-Score:15.905149
 Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
-Titulo:non-equilibrium flow of ideal dissociating gas .
+Titulo:newtoniapproximation in magnetic hypersonic stagnation-point flow .
 --------------------------------------------
-Linha:215-IDPergunta:339-IDDocumento:192-Score:15.456466
-Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
-Titulo:on hypersonic viscous flow past slender bodies of revolution .
+Linha:216-IDPergunta:340-IDDocumento:1274-Score:17.722212
+Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
+Titulo:real gas effects in flow over blunt bodies at hypersonic speeds .
 --------------------------------------------
-Linha:215-IDPergunta:339-IDDocumento:329-Score:15.018328
-Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
-Titulo:various aerodynamic characteristics in hypersonic rarefied gas flow .
+Linha:216-IDPergunta:340-IDDocumento:1319-Score:17.513668
+Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
+Titulo:real gas effects in flow over blunt bodies at hypersonic speeds .
 --------------------------------------------
-Linha:215-IDPergunta:339-IDDocumento:36-Score:14.854715
-Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
-Titulo:supersonic flow around blunt bodies .
---------------------------------------------
-Linha:215-IDPergunta:339-IDDocumento:401-Score:14.67925
-Pergunta:is it possible to predict shape of shroud which will allow simulation of nose region flow field for sphere in hypersonic flow .
-Titulo:inviscid hypersonic airflows with coupled non-equilibrium processes .
---------------------------------------------
-Linha:216-IDPergunta:340-IDDocumento:893-Score:16.625002
+Linha:216-IDPergunta:340-IDDocumento:893-Score:16.324572
 Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
 Titulo:new design of pitot-static tube with discussion of pitot-static tubes and their calibration factors .
 --------------------------------------------
-Linha:216-IDPergunta:340-IDDocumento:39-Score:16.125864
+Linha:216-IDPergunta:340-IDDocumento:39-Score:15.975974
 Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
 Titulo:on flow of sonic stream past airfoil surface .
 --------------------------------------------
-Linha:216-IDPergunta:340-IDDocumento:175-Score:16.06309
+Linha:216-IDPergunta:340-IDDocumento:175-Score:15.813314
 Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
 Titulo:experiments with static tubes in supersonic airstream .
 --------------------------------------------
-Linha:216-IDPergunta:340-IDDocumento:974-Score:14.965879
+Linha:216-IDPergunta:340-IDDocumento:974-Score:15.364113
 Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
 Titulo:approximate analysis of thrust vector control by fluid injection .
 --------------------------------------------
-Linha:216-IDPergunta:340-IDDocumento:506-Score:14.328235
-Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
-Titulo:note on havelock's shallow-water wave-resistance curves .
---------------------------------------------
-Linha:216-IDPergunta:340-IDDocumento:612-Score:14.295647
+Linha:216-IDPergunta:340-IDDocumento:612-Score:14.259529
 Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
 Titulo:pressure distributions and flow patterns at m=4 . on some deltwings of inverted 'v' cross section .
 --------------------------------------------
-Linha:216-IDPergunta:340-IDDocumento:800-Score:14.185353
+Linha:216-IDPergunta:340-IDDocumento:506-Score:14.238703
+Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
+Titulo:note on havelock's shallow-water wave-resistance curves .
+--------------------------------------------
+Linha:216-IDPergunta:340-IDDocumento:800-Score:14.055521
 Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
 Titulo:wall interference at transonic speeds on hemisphere cylinder model .
 --------------------------------------------
-Linha:216-IDPergunta:340-IDDocumento:344-Score:13.296052
+Linha:216-IDPergunta:340-IDDocumento:1068-Score:13.74774
 Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
-Titulo:some experimental techniques in mass transfer cooling .
+Titulo:instability analysis of cylindrical shells under hydrostatic pressure .
 --------------------------------------------
-Linha:216-IDPergunta:340-IDDocumento:828-Score:13.277629
-Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
-Titulo:stresses and small displacements of shallow spherical shells .
---------------------------------------------
-Linha:216-IDPergunta:340-IDDocumento:117-Score:13.247838
-Pergunta:what investigations have been made of wave system created by static pressure distribution over liquid surface .
-Titulo:motion of viscous liquid past paraboloid .
---------------------------------------------
-Linha:217-IDPergunta:347-IDDocumento:666-Score:16.754663
+Linha:217-IDPergunta:347-IDDocumento:666-Score:16.88146
 Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
 Titulo:blunt body heat transfer at hypersonic speed and low reynolds numbers .
 --------------------------------------------
-Linha:217-IDPergunta:347-IDDocumento:44-Score:16.621284
+Linha:217-IDPergunta:347-IDDocumento:1393-Score:16.814327
+Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
+Titulo:heat transfer near forward stagnation point of body of revolution .
+--------------------------------------------
+Linha:217-IDPergunta:347-IDDocumento:44-Score:16.762339
 Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
 Titulo:tip-bluntness effects on cone pressures at m=6.85 .
 --------------------------------------------
-Linha:217-IDPergunta:347-IDDocumento:323-Score:16.599052
+Linha:217-IDPergunta:347-IDDocumento:323-Score:16.714417
 Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
 Titulo:vorticity interaction at axisymmetric stagnation point in viscous incompressible fluid .
 --------------------------------------------
-Linha:217-IDPergunta:347-IDDocumento:983-Score:16.261494
+Linha:217-IDPergunta:347-IDDocumento:983-Score:16.396317
 Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
 Titulo:addendum to 'heat transfer to satellite vehicles re-entering atmosphere .
 --------------------------------------------
-Linha:217-IDPergunta:347-IDDocumento:369-Score:14.941848
+Linha:217-IDPergunta:347-IDDocumento:1151-Score:15.654354
+Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
+Titulo:experiments on supersonic blunt-body flows .
+--------------------------------------------
+Linha:217-IDPergunta:347-IDDocumento:1002-Score:15.096823
+Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
+Titulo:preliminary investigations of spiked bodies at hypersonic speeds .
+--------------------------------------------
+Linha:217-IDPergunta:347-IDDocumento:1394-Score:14.925773
+Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
+Titulo:stagnation point heat transfer measurements in hypersonic low density flow .
+--------------------------------------------
+Linha:217-IDPergunta:347-IDDocumento:369-Score:14.837793
 Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
 Titulo:approximate solution of supersonic blunt body problem for prescribed arbitrary axisymmetric shapes .
 --------------------------------------------
-Linha:217-IDPergunta:347-IDDocumento:946-Score:14.556204
+Linha:217-IDPergunta:347-IDDocumento:1395-Score:14.74168
 Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
-Titulo:exploratory investigation of effect of forward facing jet on bow shock of blunt body in mach number 6 free stream .
+Titulo:low density stagnation point heat transfer measurements in hypersonic shock tunnel .
 --------------------------------------------
-Linha:217-IDPergunta:347-IDDocumento:123-Score:14.020572
-Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
-Titulo:downstream influence of mass transfer at nose of slender cone .
---------------------------------------------
-Linha:217-IDPergunta:347-IDDocumento:36-Score:13.745465
-Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
-Titulo:supersonic flow around blunt bodies .
---------------------------------------------
-Linha:217-IDPergunta:347-IDDocumento:334-Score:13.674425
-Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
-Titulo:influence of leading-edge shock wave on laminar boundary layer at hypersonic speeds .
---------------------------------------------
-Linha:217-IDPergunta:347-IDDocumento:324-Score:13.494629
-Pergunta:has anyone investigated effect of shock generated vorticity on heat transfer to blunt body .
-Titulo:vorticity effect on stagnation point flow of viscous incompressible fluid .
---------------------------------------------
-Linha:218-IDPergunta:348-IDDocumento:36-Score:15.090779
+Linha:218-IDPergunta:348-IDDocumento:36-Score:15.10792
 Pergunta:what is heat transfer to blunt body in absence of vorticity .
 Titulo:supersonic flow around blunt bodies .
 --------------------------------------------
-Linha:218-IDPergunta:348-IDDocumento:323-Score:12.525685
+Linha:218-IDPergunta:348-IDDocumento:1393-Score:13.540521
+Pergunta:what is heat transfer to blunt body in absence of vorticity .
+Titulo:heat transfer near forward stagnation point of body of revolution .
+--------------------------------------------
+Linha:218-IDPergunta:348-IDDocumento:323-Score:12.744945
 Pergunta:what is heat transfer to blunt body in absence of vorticity .
 Titulo:vorticity interaction at axisymmetric stagnation point in viscous incompressible fluid .
 --------------------------------------------
-Linha:218-IDPergunta:348-IDDocumento:983-Score:11.938174
+Linha:218-IDPergunta:348-IDDocumento:1395-Score:12.674683
+Pergunta:what is heat transfer to blunt body in absence of vorticity .
+Titulo:low density stagnation point heat transfer measurements in hypersonic shock tunnel .
+--------------------------------------------
+Linha:218-IDPergunta:348-IDDocumento:1394-Score:12.572695
+Pergunta:what is heat transfer to blunt body in absence of vorticity .
+Titulo:stagnation point heat transfer measurements in hypersonic low density flow .
+--------------------------------------------
+Linha:218-IDPergunta:348-IDDocumento:983-Score:12.120158
 Pergunta:what is heat transfer to blunt body in absence of vorticity .
 Titulo:addendum to 'heat transfer to satellite vehicles re-entering atmosphere .
 --------------------------------------------
-Linha:218-IDPergunta:348-IDDocumento:666-Score:11.759625
+Linha:218-IDPergunta:348-IDDocumento:666-Score:11.931076
 Pergunta:what is heat transfer to blunt body in absence of vorticity .
 Titulo:blunt body heat transfer at hypersonic speed and low reynolds numbers .
 --------------------------------------------
-Linha:218-IDPergunta:348-IDDocumento:101-Score:11.446696
+Linha:218-IDPergunta:348-IDDocumento:101-Score:11.594212
 Pergunta:what is heat transfer to blunt body in absence of vorticity .
 Titulo:laminar heat transfer over blunt-nosed bodies at hypersonic flight speeds .
 --------------------------------------------
-Linha:218-IDPergunta:348-IDDocumento:670-Score:11.41763
+Linha:218-IDPergunta:348-IDDocumento:670-Score:11.529246
 Pergunta:what is heat transfer to blunt body in absence of vorticity .
 Titulo:on blunt-body heat transfer at hypersonic speed and low reynolds number .
 --------------------------------------------
-Linha:218-IDPergunta:348-IDDocumento:44-Score:11.276448
+Linha:218-IDPergunta:348-IDDocumento:1161-Score:11.445341
 Pergunta:what is heat transfer to blunt body in absence of vorticity .
-Titulo:tip-bluntness effects on cone pressures at m=6.85 .
+Titulo:stagnation point heat transfer measurements in dissociated air .
 --------------------------------------------
-Linha:218-IDPergunta:348-IDDocumento:295-Score:11.260307
-Pergunta:what is heat transfer to blunt body in absence of vorticity .
-Titulo:note on transitional heat transfer under hypersonic conditions .
---------------------------------------------
-Linha:218-IDPergunta:348-IDDocumento:35-Score:10.917784
-Pergunta:what is heat transfer to blunt body in absence of vorticity .
-Titulo:stagnation point of blunt body in hypersonic flow .
---------------------------------------------
-Linha:218-IDPergunta:348-IDDocumento:294-Score:10.597901
-Pergunta:what is heat transfer to blunt body in absence of vorticity .
-Titulo:investigation of laminar transitional and turbulent heat transfer on blunt-nosed bodies in hypersonic flow .
---------------------------------------------
-Linha:219-IDPergunta:349-IDDocumento:59-Score:15.288879
+Linha:219-IDPergunta:349-IDDocumento:59-Score:14.911866
 Pergunta:what are general effects on flow fields when reynolds number is small .
 Titulo:tables of exact laminar-boundary layer solutions when wall is porous and fluid properties are variable .
 --------------------------------------------
-Linha:219-IDPergunta:349-IDDocumento:993-Score:13.4103155
+Linha:219-IDPergunta:349-IDDocumento:1222-Score:14.067447
+Pergunta:what are general effects on flow fields when reynolds number is small .
+Titulo:axisymmetric magnetohydrodynamic channel flow .
+--------------------------------------------
+Linha:219-IDPergunta:349-IDDocumento:993-Score:13.726696
 Pergunta:what are general effects on flow fields when reynolds number is small .
 Titulo: extent of jet interference flow fields . jet effects on cylindrical afterbodies housing sonic and supersonic nozzles which exhaust against supersonic stream at angles of attack from 90degree to 180degree .
 --------------------------------------------
-Linha:219-IDPergunta:349-IDDocumento:992-Score:13.138623
+Linha:219-IDPergunta:349-IDDocumento:992-Score:13.410772
 Pergunta:what are general effects on flow fields when reynolds number is small .
 Titulo:effects of small jet of air exhausting from nose of body of revolution in supersonic flow .
 --------------------------------------------
-Linha:219-IDPergunta:349-IDDocumento:361-Score:12.954828
-Pergunta:what are general effects on flow fields when reynolds number is small .
-Titulo:flow of viscous liquid past flat plate at small reynolds number .
---------------------------------------------
-Linha:219-IDPergunta:349-IDDocumento:208-Score:12.787829
+Linha:219-IDPergunta:349-IDDocumento:208-Score:13.125673
 Pergunta:what are general effects on flow fields when reynolds number is small .
 Titulo:hall effect in viscous flow of ionized gas between parallel plates under transverse magnetic field .
 --------------------------------------------
-Linha:219-IDPergunta:349-IDDocumento:149-Score:12.489734
+Linha:219-IDPergunta:349-IDDocumento:361-Score:13.026799
+Pergunta:what are general effects on flow fields when reynolds number is small .
+Titulo:flow of viscous liquid past flat plate at small reynolds number .
+--------------------------------------------
+Linha:219-IDPergunta:349-IDDocumento:1221-Score:12.994837
+Pergunta:what are general effects on flow fields when reynolds number is small .
+Titulo:steady flow of conducting fluids in channels under transverse magnetic fields, with consideration of hall effect .
+--------------------------------------------
+Linha:219-IDPergunta:349-IDDocumento:149-Score:12.554461
 Pergunta:what are general effects on flow fields when reynolds number is small .
 Titulo:expansions at small reynolds number for flow past sphere and circular cylinder .
 --------------------------------------------
-Linha:219-IDPergunta:349-IDDocumento:236-Score:12.462407
+Linha:219-IDPergunta:349-IDDocumento:236-Score:12.524296
 Pergunta:what are general effects on flow fields when reynolds number is small .
 Titulo:criterifor thermodynamic equilibrium in gas flow .
 --------------------------------------------
-Linha:219-IDPergunta:349-IDDocumento:456-Score:11.511463
+Linha:219-IDPergunta:349-IDDocumento:1082-Score:12.39714
 Pergunta:what are general effects on flow fields when reynolds number is small .
-Titulo:study of flow fields about some typical blunt-nosed slender bodies .
+Titulo:flow past pitot tube at low reynolds numbers, part 1-dash numerical solution of navier-stokes equations for steady viscous axisymmetric flow, part 2-dash effects of viscosity and orifice size on pitot tube at low reynolds numbers .
 --------------------------------------------
-Linha:219-IDPergunta:349-IDDocumento:319-Score:11.467822
-Pergunta:what are general effects on flow fields when reynolds number is small .
-Titulo:propagation of weak disturbances in gas subject to relaxation effects .
+Linha:220-IDPergunta:352-IDDocumento:1375-Score:20.054756
+Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
+Titulo:approximate solution for axisymmetric jet of laminar compressible fluid .
 --------------------------------------------
-Linha:219-IDPergunta:349-IDDocumento:342-Score:11.17438
-Pergunta:what are general effects on flow fields when reynolds number is small .
-Titulo:effect of diffusion fields on laminar boundary layer .
---------------------------------------------
-Linha:220-IDPergunta:352-IDDocumento:292-Score:19.311264
+Linha:220-IDPergunta:352-IDDocumento:292-Score:19.463648
 Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
 Titulo:rapid laminar boundary layer calculations by piece-wise application of similar solutions .
 --------------------------------------------
-Linha:220-IDPergunta:352-IDDocumento:458-Score:18.509916
+Linha:220-IDPergunta:352-IDDocumento:458-Score:18.869246
 Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
 Titulo:new series for calculation of steady laminar boundary layer flows .
 --------------------------------------------
-Linha:220-IDPergunta:352-IDDocumento:231-Score:18.306677
+Linha:220-IDPergunta:352-IDDocumento:231-Score:17.974567
 Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
 Titulo:practical calculation of second-order supersonic flow past non-lifting bodies of revolution .
 --------------------------------------------
-Linha:220-IDPergunta:352-IDDocumento:461-Score:17.004353
+Linha:220-IDPergunta:352-IDDocumento:1192-Score:17.464474
+Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
+Titulo:integral method for calculation of supersonic laminar boundary layer with heat transfer on yawed cone .
+--------------------------------------------
+Linha:220-IDPergunta:352-IDDocumento:461-Score:17.196898
 Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
 Titulo:approximate methods fore predicting separation properties of laminar boundary layers .
 --------------------------------------------
-Linha:220-IDPergunta:352-IDDocumento:837-Score:16.417229
+Linha:220-IDPergunta:352-IDDocumento:837-Score:16.155197
 Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
 Titulo:inelastic behaviour of structures subjected to cyclic thermal and mechanical stressing conditions .
 --------------------------------------------
-Linha:220-IDPergunta:352-IDDocumento:527-Score:15.692726
+Linha:220-IDPergunta:352-IDDocumento:527-Score:15.959404
 Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
 Titulo:note on three-point boundary layer problem for blasius equations .
 --------------------------------------------
-Linha:220-IDPergunta:352-IDDocumento:540-Score:15.081915
-Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
-Titulo:use of local similarity concepts in hypersonic viscous interaction problems .
---------------------------------------------
-Linha:220-IDPergunta:352-IDDocumento:261-Score:14.401434
-Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
-Titulo:experiments on axi-symmetric boundary layers along long cylinder in incompressible flow .
---------------------------------------------
-Linha:220-IDPergunta:352-IDDocumento:977-Score:14.383704
-Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
-Titulo:concerning some solutions of boundary layer equations in hydrodynamics .
---------------------------------------------
-Linha:220-IDPergunta:352-IDDocumento:472-Score:14.246069
-Pergunta:find calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
-Titulo:waves in supersonic flow .
---------------------------------------------
-Linha:221-IDPergunta:353-IDDocumento:388-Score:16.22131
-Pergunta:papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
-Titulo:pressure gradient induced by shear flow past flat plate .
---------------------------------------------
-Linha:221-IDPergunta:353-IDDocumento:458-Score:16.003712
-Pergunta:papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
-Titulo:new series for calculation of steady laminar boundary layer flows .
---------------------------------------------
-Linha:221-IDPergunta:353-IDDocumento:662-Score:14.93679
-Pergunta:papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
-Titulo:theoretical and experimental investigation of aerodynamic-heating and isothermal heat transfer parameters on hemisphere nose with laminar boundary layer at supersonic mach numbers .
---------------------------------------------
-Linha:221-IDPergunta:353-IDDocumento:54-Score:14.565273
-Pergunta:papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
-Titulo:method for calculation of compressible laminar boundary layer characteristics in axial pressure gradient with zero heat transfer .
---------------------------------------------
-Linha:221-IDPergunta:353-IDDocumento:653-Score:13.50196
-Pergunta:papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
-Titulo:transient magnetohydrodynamic duct flow .
---------------------------------------------
-Linha:221-IDPergunta:353-IDDocumento:73-Score:13.368478
-Pergunta:papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
-Titulo:investigation of stability of laminar boundary layer in compressible fluid .
---------------------------------------------
-Linha:221-IDPergunta:353-IDDocumento:528-Score:13.264981
-Pergunta:papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
-Titulo:first-order slip effects on laminar boundary layer over slender body of revolution with zero pressure gradient .
---------------------------------------------
-Linha:221-IDPergunta:353-IDDocumento:637-Score:13.224273
-Pergunta:papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
-Titulo:integral equation relating general time-dependent lift and downwash distributions on finite wings in subsonic flow .
---------------------------------------------
-Linha:221-IDPergunta:353-IDDocumento:49-Score:13.203517
-Pergunta:papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
-Titulo:temperature and velocity profiles in compressible laminar boundary layer with arbitrary distribution of surface temperature .
---------------------------------------------
-Linha:221-IDPergunta:353-IDDocumento:62-Score:12.968844
-Pergunta:papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
-Titulo:similar solutions for compressible laminar boundary layer with heat transfer and pressure gradient .
---------------------------------------------
-Linha:222-IDPergunta:355-IDDocumento:419-Score:21.7664
-Pergunta:has anyone investigated shear buckling of stiffened plates .
-Titulo:design of intermediate vertical stiffeners on web plates subjected to shear .
---------------------------------------------
-Linha:222-IDPergunta:355-IDDocumento:400-Score:14.986983
-Pergunta:has anyone investigated shear buckling of stiffened plates .
-Titulo:buckling stress of clamped rectangular plates in shear .
---------------------------------------------
-Linha:222-IDPergunta:355-IDDocumento:820-Score:13.460336
-Pergunta:has anyone investigated shear buckling of stiffened plates .
-Titulo:theories of plastic buckling .
---------------------------------------------
-Linha:222-IDPergunta:355-IDDocumento:888-Score:13.0089855
-Pergunta:has anyone investigated shear buckling of stiffened plates .
-Titulo:combinations of temperature and axial compression required for buckling of ring-stiffened cylinder .
---------------------------------------------
-Linha:222-IDPergunta:355-IDDocumento:826-Score:11.980159
-Pergunta:has anyone investigated shear buckling of stiffened plates .
-Titulo:small bending and stretching of sandwich type shells .
---------------------------------------------
-Linha:222-IDPergunta:355-IDDocumento:863-Score:11.663183
-Pergunta:has anyone investigated shear buckling of stiffened plates .
-Titulo:loads and deformations of buckled rectangular plates .
---------------------------------------------
-Linha:222-IDPergunta:355-IDDocumento:838-Score:11.586376
-Pergunta:has anyone investigated shear buckling of stiffened plates .
-Titulo:bending and compression tests of pressurised ring-stiffened cylinders .
---------------------------------------------
-Linha:222-IDPergunta:355-IDDocumento:886-Score:11.088816
-Pergunta:has anyone investigated shear buckling of stiffened plates .
-Titulo:thermal buckling of clamped cylindrical shells .
---------------------------------------------
-Linha:222-IDPergunta:355-IDDocumento:31-Score:9.355095
-Pergunta:has anyone investigated shear buckling of stiffened plates .
-Titulo:thermal buckling of supersonic wing panels .
---------------------------------------------
-Linha:222-IDPergunta:355-IDDocumento:412-Score:9.111714
-Pergunta:has anyone investigated shear buckling of stiffened plates .
-Titulo:critical combinations of shear and transverse direct stress for infinitely long flat plate with edges elastically restrained against rotation .
---------------------------------------------
-Linha:223-IDPergunta:356-IDDocumento:400-Score:24.95848
-Pergunta:papers on shear buckling of unstiffened rectangular plates under shear .
-Titulo:buckling stress of clamped rectangular plates in shear .
---------------------------------------------
-Linha:223-IDPergunta:356-IDDocumento:419-Score:19.69822
-Pergunta:papers on shear buckling of unstiffened rectangular plates under shear .
-Titulo:design of intermediate vertical stiffeners on web plates subjected to shear .
---------------------------------------------
-Linha:223-IDPergunta:356-IDDocumento:388-Score:17.488262
-Pergunta:papers on shear buckling of unstiffened rectangular plates under shear .
-Titulo:pressure gradient induced by shear flow past flat plate .
---------------------------------------------
-Linha:223-IDPergunta:356-IDDocumento:412-Score:16.249136
-Pergunta:papers on shear buckling of unstiffened rectangular plates under shear .
-Titulo:critical combinations of shear and transverse direct stress for infinitely long flat plate with edges elastically restrained against rotation .
---------------------------------------------
-Linha:223-IDPergunta:356-IDDocumento:826-Score:16.191486
-Pergunta:papers on shear buckling of unstiffened rectangular plates under shear .
-Titulo:small bending and stretching of sandwich type shells .
---------------------------------------------
-Linha:223-IDPergunta:356-IDDocumento:929-Score:14.782279
-Pergunta:papers on shear buckling of unstiffened rectangular plates under shear .
-Titulo:stability of cylindrical shell of variable curvature .
---------------------------------------------
-Linha:223-IDPergunta:356-IDDocumento:820-Score:14.392141
-Pergunta:papers on shear buckling of unstiffened rectangular plates under shear .
-Titulo:theories of plastic buckling .
---------------------------------------------
-Linha:223-IDPergunta:356-IDDocumento:863-Score:13.839045
-Pergunta:papers on shear buckling of unstiffened rectangular plates under shear .
-Titulo:loads and deformations of buckled rectangular plates .
---------------------------------------------
-Linha:223-IDPergunta:356-IDDocumento:956-Score:13.482488
-Pergunta:papers on shear buckling of unstiffened rectangular plates under shear .
-Titulo:elastic stability of simply supported corrugated core sand- wich cylinders .
---------------------------------------------
-Linha:223-IDPergunta:356-IDDocumento:739-Score:13.110721
-Pergunta:papers on shear buckling of unstiffened rectangular plates under shear .
-Titulo:buckling of thin cylindrical shells under axial compression .
---------------------------------------------
-Linha:224-IDPergunta:360-IDDocumento:317-Score:22.757053
-Pergunta:in practice, how close to reality are assumptions that flow in hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
-Titulo:non-equilibrium flow of ideal dissociating gas .
---------------------------------------------
-Linha:224-IDPergunta:360-IDDocumento:401-Score:21.358225
-Pergunta:in practice, how close to reality are assumptions that flow in hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
-Titulo:inviscid hypersonic airflows with coupled non-equilibrium processes .
---------------------------------------------
-Linha:224-IDPergunta:360-IDDocumento:259-Score:19.646215
-Pergunta:in practice, how close to reality are assumptions that flow in hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
-Titulo:second order theory for unsteady supersonic flow past slender pointed bodies of revolution .
---------------------------------------------
-Linha:224-IDPergunta:360-IDDocumento:236-Score:19.084328
-Pergunta:in practice, how close to reality are assumptions that flow in hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
-Titulo:criterifor thermodynamic equilibrium in gas flow .
---------------------------------------------
-Linha:224-IDPergunta:360-IDDocumento:656-Score:16.829142
-Pergunta:in practice, how close to reality are assumptions that flow in hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
-Titulo:departure from dissociation equilibrium in hypersonic nozzle .
---------------------------------------------
-Linha:224-IDPergunta:360-IDDocumento:576-Score:16.770342
-Pergunta:in practice, how close to reality are assumptions that flow in hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
-Titulo:viscous and inviscid stagnation flow in dissociated hypervelocity free  stream .
---------------------------------------------
-Linha:224-IDPergunta:360-IDDocumento:140-Score:16.03337
-Pergunta:in practice, how close to reality are assumptions that flow in hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
-Titulo:determination of turbulent skin friction by means of pitot tubes .
---------------------------------------------
-Linha:224-IDPergunta:360-IDDocumento:329-Score:15.991751
-Pergunta:in practice, how close to reality are assumptions that flow in hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
-Titulo:various aerodynamic characteristics in hypersonic rarefied gas flow .
---------------------------------------------
-Linha:224-IDPergunta:360-IDDocumento:575-Score:15.973788
-Pergunta:in practice, how close to reality are assumptions that flow in hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
-Titulo:atomic recombination in hypersonic wind tunnel nozzle .
---------------------------------------------
-Linha:224-IDPergunta:360-IDDocumento:110-Score:15.156116
-Pergunta:in practice, how close to reality are assumptions that flow in hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
-Titulo:dynamics of dissociating gas .
---------------------------------------------
-Linha:225-IDPergunta:365-IDDocumento:70-Score:18.78249
-Pergunta:what design factors cbe used to control lift-drag ratios at mach numbers above 5 .
-Titulo:study of flow changes associated with airfoil section drag rise at supercritical speeds .
---------------------------------------------
-Linha:225-IDPergunta:365-IDDocumento:225-Score:17.803047
-Pergunta:what design factors cbe used to control lift-drag ratios at mach numbers above 5 .
-Titulo:elliptic cones alone and with wings at supersonic speeds .
---------------------------------------------
-Linha:225-IDPergunta:365-IDDocumento:792-Score:15.374399
-Pergunta:what design factors cbe used to control lift-drag ratios at mach numbers above 5 .
-Titulo:some low speed problems of high speed aircraft .
---------------------------------------------
-Linha:225-IDPergunta:365-IDDocumento:431-Score:15.269603
-Pergunta:what design factors cbe used to control lift-drag ratios at mach numbers above 5 .
-Titulo:free-flight measurements of zero-lift drag and base pressure on wind tunnel interference model (m=0 . 8 - 1. 5) .
---------------------------------------------
-Linha:225-IDPergunta:365-IDDocumento:416-Score:15.0975895
-Pergunta:what design factors cbe used to control lift-drag ratios at mach numbers above 5 .
-Titulo:methods of boundary-layer control for postponing and alleviating buffeting and other effects of shock-induced separation .
---------------------------------------------
-Linha:225-IDPergunta:365-IDDocumento:797-Score:14.814519
-Pergunta:what design factors cbe used to control lift-drag ratios at mach numbers above 5 .
-Titulo:study of effect of leading-edge modifications on flow over 50degree sweptback wing at transonic speeds .
---------------------------------------------
-Linha:225-IDPergunta:365-IDDocumento:226-Score:14.333943
-Pergunta:what design factors cbe used to control lift-drag ratios at mach numbers above 5 .
-Titulo:aerofoil theory of flat deltwing at supersonic speeds .
---------------------------------------------
-Linha:225-IDPergunta:365-IDDocumento:638-Score:14.319999
-Pergunta:what design factors cbe used to control lift-drag ratios at mach numbers above 5 .
-Titulo:longitudinal aerodynamic characteristics at low subsonic speeds of highly swept wing utilizing nose deflection for control .
---------------------------------------------
-Linha:225-IDPergunta:365-IDDocumento:566-Score:13.877213
-Pergunta:what design factors cbe used to control lift-drag ratios at mach numbers above 5 .
-Titulo:investigation of local heat transfer and pressure drag characteristics of yawed circular cylinder at supersonic speeds .
---------------------------------------------
-Linha:225-IDPergunta:365-IDDocumento:975-Score:13.696658
-Pergunta:what design factors cbe used to control lift-drag ratios at mach numbers above 5 .
-Titulo:one dimensional flows of imperfect diatomic gas .
---------------------------------------------
+Linha:220-IDPergunta:352-IDDocumento:540-Score:15.150767

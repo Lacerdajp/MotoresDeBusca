@@ -3,6 +3,7 @@ from elasticsearch.helpers import bulk
 import timeit
 from dotenv import load_dotenv
 import os
+import time
 import matplotlib.pyplot as plt
 
 
@@ -72,9 +73,10 @@ def lerDiretorioIndex(index_name, arquivo, es):
             }
         }
         docs.append(doc)
-
-    tempoIndexacao = timeit.default_timer() - tempoIndexacao
     success, failled = bulk(es, docs)
+    time.sleep(0.5)
+    tempoIndexacao = timeit.default_timer() - tempoIndexacao
+
     return tempoIndexacao
 
 
@@ -157,9 +159,9 @@ for k in range(10):
 print("O tempo de busca se da por: "+str(sum(tempoBusca)/len(tempoBusca)))
 print("O tempo de Indexação é: "+str(tempoIndexacao))
 plotarGRaficos("Grafico de Recall X K ElasticSearch", y=recall,
-               x=[linha for linha in range(10)], namex="k", namey="Recall")
+               x=[linha+1 for linha in range(10)], namex="k", namey="Recall")
 plotarGRaficos("Grafico de Precision X ElasticSearch", y=precision,
-               x=[linha for linha in range(10)], namex="k", namey="Precision")
+               x=[linha+1 for linha in range(10)], namex="k", namey="Precision")
 arquivoResposta.close()
 # elif (tipo_teste == 2):
 #     tipoBusca = int(input(
